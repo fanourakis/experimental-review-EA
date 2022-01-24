@@ -59,7 +59,7 @@ python time_to_accuracy.py
 ```
 For Trade Offs
 ```bash
-python trade_offs.p
+python trade_offs.py
 ```
 
 ### Statistics Instructions
