@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: openea
+Version: 1.0
+Summary: A package for embedding-based entity alignment
+Home-page: https://github.com/nju-websoft/OpenEA.git
+Author: Zequn Sun
+Author-email: zqsun.nju@gmail.com
+Maintainer: Zequn Sun
+Maintainer-email: zqsun.nju@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: Knowledge Graph,Embeddings,Entity Alignment
+Platform: UNKNOWN

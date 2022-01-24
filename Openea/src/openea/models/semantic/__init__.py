@@ -1,0 +1,1 @@
+from openea.models.semantic.rotate import RotatE
