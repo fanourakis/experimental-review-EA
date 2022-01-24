@@ -1,0 +1,7989 @@
+(lp1
+crdflib.term
+URIRef
+p2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0693446
+tRp3
+acrdflib.term
+Literal
+p4
+(VMichael Potts
+NNtRp5
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000149
+tRp6
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3186026
+tRp7
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604360
+tRp8
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0106028
+tRp9
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829698
+tRp10
+ag4
+(VChinatown Garbage Collector
+NNtRp11
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0533744
+tRp12
+ag4
+(V1958-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp13
+tRp14
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0284956
+tRp15
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604441
+tRp16
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0002140
+tRp17
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6411854
+tRp18
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0270765
+tRp19
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505632
+tRp20
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883883
+tRp21
+ag4
+(VAnimation,Comedy,Fantasy
+NNtRp22
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604377
+tRp23
+ag4
+(VHave a Conscience
+NNtRp24
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0073688
+tRp25
+ag4
+(VAlec Berg
+NNtRp26
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0672597
+tRp27
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0394817
+tRp28
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3001906
+tRp29
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1856010
+tRp30
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm2706113
+tRp31
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0875496
+tRp32
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0575546
+tRp33
+ag4
+(V1917-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp34
+tRp35
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0004332
+tRp36
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6706428
+tRp37
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0716916
+tRp38
+ag4
+(V0
+NNtRp39
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505625
+tRp40
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0052440
+tRp41
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505676
+tRp42
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604396
+tRp43
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0619547
+tRp44
+ag4
+(V1950-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp45
+tRp46
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0187004
+tRp47
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604353
+tRp48
+ag4
+(VControl
+NNtRp49
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0290569
+tRp50
+ag4
+(V2001-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp51
+tRp52
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505667
+tRp53
+ag4
+(VAdventure
+NNtRp54
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001101
+tRp55
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551386
+tRp56
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt4057168
+tRp57
+ag4
+(V4
+NNtRp58
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0446672
+tRp59
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6411858
+tRp60
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0806959
+tRp61
+ag4
+(VJane Smiley
+NNtRp62
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0307531
+tRp63
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551402
+tRp64
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505671
+tRp65
+ag4
+(VThe Big Surf
+NNtRp66
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604370
+tRp67
+ag4
+(VCrime,Drama,Mystery
+NNtRp68
+ag4
+(V55
+NNtRp69
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0424800
+tRp70
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604333
+tRp71
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0881672
+tRp72
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0847454
+tRp73
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt5419058
+tRp74
+ag4
+(V5
+NNtRp75
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604409
+tRp76
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829709
+tRp77
+ag4
+(VPlumber
+NNtRp78
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551418
+tRp79
+ag4
+(VThe Shrimp Incident
+NNtRp80
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001151
+tRp81
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt8215522
+tRp82
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001938
+tRp83
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604351
+tRp84
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0824389
+tRp85
+ag4
+(VAnthony Steel
+NNtRp86
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551391
+tRp87
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0264235
+tRp88
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt8842110
+tRp89
+ag4
+(VArrears in Science
+NNtRp90
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505670
+tRp91
+ag4
+(VThe Bamboo Curtain
+NNtRp92
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505641
+tRp93
+ag4
+(V7
+NNtRp94
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0164044
+tRp95
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505656
+tRp96
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0621002
+tRp97
+ag4
+(V1903-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp98
+tRp99
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm4446305
+tRp100
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7320868
+tRp101
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0738180
+tRp102
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505651
+tRp103
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0224703
+tRp104
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604342
+tRp105
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551425
+tRp106
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7320878
+tRp107
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000890
+tRp108
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0644022
+tRp109
+ag4
+(VBob Odenkirk
+NNtRp110
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6411842
+tRp111
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0111997
+tRp112
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505706
+tRp113
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0092776
+tRp114
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505626
+tRp115
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6618290
+tRp116
+ag4
+(VComedy
+NNtRp117
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505634
+tRp118
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0589957
+tRp119
+ag4
+(V1961-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp120
+tRp121
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604341
+tRp122
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1192046
+tRp123
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0849908
+tRp124
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0394816
+tRp125
+ag4
+(V2002-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp126
+tRp127
+ag4
+(VIt's for You
+NNtRp128
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0999118
+tRp129
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0839676
+tRp130
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0502425
+tRp131
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505630
+tRp132
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0911320
+tRp133
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0739359
+tRp134
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0506087
+tRp135
+ag4
+(Vwriter,producer,miscellaneous
+NNtRp136
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551383
+tRp137
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604355
+tRp138
+ag4
+(VCrosetti
+NNtRp139
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0111303
+tRp140
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604329
+tRp141
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0117505
+tRp142
+ag4
+(VRadoslav Brzobohatý
+NNtRp143
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7576200
+tRp144
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000506
+tRp145
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551408
+tRp146
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0947227
+tRp147
+ag4
+(VThe Ida Funkhouser Roadside Memorial
+NNtRp148
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505666
+tRp149
+ag4
+(VSomewhere South of Suva
+NNtRp150
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505628
+tRp151
+ag4
+(V2
+NNtRp152
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0261435
+tRp153
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1104264
+tRp154
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0323112
+tRp155
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829696
+tRp156
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551405
+tRp157
+ag4
+(VThe Car Salesman
+NNtRp158
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm2802722
+tRp159
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6411846
+tRp160
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0287988
+tRp161
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505693
+tRp162
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0739360
+tRp163
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505697
+tRp164
+ag4
+(V11
+NNtRp165
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0968881
+tRp166
+ag4
+(V6
+NNtRp167
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1032487
+tRp168
+ag4
+(VSharat Sardana
+NNtRp169
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt4498368
+tRp170
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0902277
+tRp171
+ag4
+(V2015-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp172
+tRp173
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0384787
+tRp174
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505684
+tRp175
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0991810
+tRp176
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt4128574
+tRp177
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505658
+tRp178
+ag4
+(V1959-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp179
+tRp180
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0812453
+tRp181
+ag4
+(VVladimir Sokoloff
+NNtRp182
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505629
+tRp183
+ag4
+(VThe Trial of Adam Troy
+NNtRp184
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0385644
+tRp185
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1515100
+tRp186
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1469236
+tRp187
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1246607
+tRp188
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0120960
+tRp189
+ag4
+(VFortunata y Jacinta
+NNtRp190
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0314253
+tRp191
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604366
+tRp192
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt2790240
+tRp193
+ag4
+(VAfter You've Gone
+NNtRp194
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551426
+tRp195
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829699
+tRp196
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0003447
+tRp197
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604356
+tRp198
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0552588
+tRp199
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604335
+tRp200
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604363
+tRp201
+ag4
+(V1994-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp202
+tRp203
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0603425
+tRp204
+ag4
+(V1978-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp205
+tRp206
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551417
+tRp207
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883881
+tRp208
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0099435
+tRp209
+ag4
+(Vactor,producer
+NNtRp210
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0283205
+tRp211
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6538206
+tRp212
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0268199
+tRp213
+ag4
+(VColin Farrell
+NNtRp214
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0226889
+tRp215
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505636
+tRp216
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0941381
+tRp217
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0458259
+tRp218
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505662
+tRp219
+ag4
+(V20
+NNtRp220
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7126476
+tRp221
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1515099
+tRp222
+ag4
+(VDenise Handicap
+NNtRp223
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0818222
+tRp224
+ag4
+(V1993-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp225
+tRp226
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0807252
+tRp227
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000705
+tRp228
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6411836
+tRp229
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt4057164
+tRp230
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3792838
+tRp231
+ag4
+(VThe Western Book of the Dead
+NNtRp232
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604336
+tRp233
+ag4
+(VAll Through the House
+NNtRp234
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0906943
+tRp235
+ag4
+(VGay Walch
+NNtRp236
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001999
+tRp237
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604375
+tRp238
+ag4
+(V3
+NNtRp239
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0935150
+tRp240
+ag4
+(V1962-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp241
+tRp242
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829704
+tRp243
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001717
+tRp244
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883874
+tRp245
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0506215
+tRp246
+ag4
+(VGene Levitt
+NNtRp247
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001921
+tRp248
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604382
+tRp249
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0759975
+tRp250
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551422
+tRp251
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551423
+tRp252
+ag4
+(VThe Survivor
+NNtRp253
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1104262
+tRp254
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505631
+tRp255
+ag4
+(V2017-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp256
+tRp257
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505663
+tRp258
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0122579
+tRp259
+ag4
+(VThe Lakes
+NNtRp260
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0394820
+tRp261
+ag4
+(V58
+NNtRp262
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0122837
+tRp263
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0352664
+tRp264
+ag4
+(V1963-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp265
+tRp266
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604406
+tRp267
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7576192
+tRp268
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1023689
+tRp269
+ag4
+(Vwriter
+NNtRp270
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0270915
+tRp271
+ag4
+(V1900-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp272
+tRp273
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0739348
+tRp274
+ag4
+(VAre You There God, It's Me, Dean
+NNtRp275
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0570971
+tRp276
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505707
+tRp277
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0421255
+tRp278
+ag4
+(V1894-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp279
+tRp280
+ag4
+(V14
+NNtRp281
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0908266
+tRp282
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0288929
+tRp283
+ag4
+(V1938-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp284
+tRp285
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0952502
+tRp286
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0887700
+tRp287
+ag4
+(VTimothy Van Patten
+NNtRp288
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829700
+tRp289
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0007995
+tRp290
+ag4
+(Vactor,soundtrack
+NNtRp291
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505703
+tRp292
+ag4
+(VVendetta
+NNtRp293
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0934851
+tRp294
+ag4
+(V1981-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp295
+tRp296
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505691
+tRp297
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0548221
+tRp298
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604349
+tRp299
+ag4
+(V22
+NNtRp300
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0822570
+tRp301
+ag4
+(Vdirector,producer,soundtrack
+NNtRp302
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0358452
+tRp303
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt5218230
+tRp304
+ag4
+(VRobert Dillon
+NNtRp305
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0440885
+tRp306
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0875497
+tRp307
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0989179
+tRp308
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000437
+tRp309
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505646
+tRp310
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0878792
+tRp311
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0417373
+tRp312
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604376
+tRp313
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0534317
+tRp314
+ag4
+(V1973-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp315
+tRp316
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0478286
+tRp317
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551412
+tRp318
+ag4
+(VThe Derelict
+NNtRp319
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0641944
+tRp320
+ag4
+(VShaquille O'Neal
+NNtRp321
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm2573928
+tRp322
+ag4
+(VKana Hanazawa
+NNtRp323
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829711
+tRp324
+ag4
+(V2005-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp325
+tRp326
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604423
+tRp327
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6950376
+tRp328
+ag4
+(V18
+NNtRp329
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0675728
+tRp330
+ag4
+(Vwriter,actor,director
+NNtRp331
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0507659
+tRp332
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1640882
+tRp333
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0282984
+tRp334
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505655
+tRp335
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0394813
+tRp336
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0249080
+tRp337
+ag4
+(V1932-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp338
+tRp339
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0264009
+tRp340
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604416
+tRp341
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0716257
+tRp342
+ag4
+(V1966-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp343
+tRp344
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt5218240
+tRp345
+ag4
+(VAction,Adventure,Animation
+NNtRp346
+ag4
+(V2012-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp347
+tRp348
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0005005
+tRp349
+ag4
+(VHugh Hefner
+NNtRp350
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0415468
+tRp351
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0394822
+tRp352
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3892088
+tRp353
+ag4
+(VImmune to Murder
+NNtRp354
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3221270
+tRp355
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001247
+tRp356
+ag4
+(V1919-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp357
+tRp358
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0251872
+tRp359
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1515102
+tRp360
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0799875
+tRp361
+ag4
+(V1924-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp362
+tRp363
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0567471
+tRp364
+ag4
+(V1979-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp365
+tRp366
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0643000
+tRp367
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505687
+tRp368
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551393
+tRp369
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0800108
+tRp370
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604398
+tRp371
+ag4
+(V1997-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp372
+tRp373
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0739355
+tRp374
+ag4
+(V2004-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp375
+tRp376
+ag4
+(Vdirector,writer,producer
+NNtRp377
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm3248988
+tRp378
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0844653
+tRp379
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1640885
+tRp380
+ag4
+(V30
+NNtRp381
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0002083
+tRp382
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt2811510
+tRp383
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1711253
+tRp384
+ag4
+(VGary Player
+NNtRp385
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0209428
+tRp386
+ag4
+(V1944-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp387
+tRp388
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604352
+tRp389
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0687964
+tRp390
+ag4
+(Vdirector,writer,miscellaneous
+NNtRp391
+ag4
+(VBob Einstein
+NNtRp392
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505698
+tRp393
+ag4
+(V16
+NNtRp394
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551390
+tRp395
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604384
+tRp396
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0330050
+tRp397
+ag4
+(Vactor
+NNtRp398
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604421
+tRp399
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1356578
+tRp400
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1640888
+tRp401
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604432
+tRp402
+ag4
+(VThe Terrible Secret of Turtle Bay
+NNtRp403
+ag4
+(V1
+NNtRp404
+ag4
+(V2018-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp405
+tRp406
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0477370
+tRp407
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604358
+tRp408
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505664
+tRp409
+ag4
+(V60
+NNtRp410
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7320886
+tRp411
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551396
+tRp412
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883891
+tRp413
+ag4
+(V1999-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp414
+tRp415
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0105672
+tRp416
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604443
+tRp417
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829716
+tRp418
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604340
+tRp419
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505695
+tRp420
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0921004
+tRp421
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1049251
+tRp422
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0830799
+tRp423
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0830063
+tRp424
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm3701064
+tRp425
+ag4
+(VIwan Rheon
+NNtRp426
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604369
+tRp427
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604374
+tRp428
+ag4
+(VGone for Goode
+NNtRp429
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0248942
+tRp430
+ag4
+(V1947-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp431
+tRp432
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0229645
+tRp433
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3892094
+tRp434
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001308
+tRp435
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505635
+tRp436
+ag4
+(VAction,Drama,Mystery
+NNtRp437
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0203577
+tRp438
+ag4
+(Vwriter,producer,script_department
+NNtRp439
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0011727
+tRp440
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505679
+tRp441
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505637
+tRp442
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505640
+tRp443
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551401
+tRp444
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0750023
+tRp445
+ag4
+(V2003-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp446
+tRp447
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0830064
+tRp448
+ag4
+(V21
+NNtRp449
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt4057176
+tRp450
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001119
+tRp451
+ag4
+(V2007-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp452
+tRp453
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604428
+tRp454
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0350455
+tRp455
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604330
+tRp456
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1708355
+tRp457
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0446037
+tRp458
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551421
+tRp459
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0833403
+tRp460
+ag4
+(VTwenty Years to Midnight
+NNtRp461
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0002053
+tRp462
+ag4
+(V1907-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp463
+tRp464
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0390204
+tRp465
+ag4
+(VJames Holden
+NNtRp466
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0757327
+tRp467
+ag4
+(Vactor,soundtrack,producer
+NNtRp468
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7525428
+tRp469
+ag4
+(VThe Venture Bros. and the Curse of the Haunted Problem
+NNtRp470
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3001926
+tRp471
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505644
+tRp472
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0928068
+tRp473
+ag4
+(V1916-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp474
+tRp475
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0926247
+tRp476
+ag4
+(V2014-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp477
+tRp478
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0822287
+tRp479
+ag4
+(V1965-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp480
+tRp481
+ag4
+(VThe Final Country
+NNtRp482
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt4057166
+tRp483
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0460974
+tRp484
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000228
+tRp485
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt5095742
+tRp486
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1543296
+tRp487
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1480925
+tRp488
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0991378
+tRp489
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0036206
+tRp490
+ag4
+(Vdirector,actress
+NNtRp491
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0277830
+tRp492
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000832
+tRp493
+ag4
+(VDiane Baker
+NNtRp494
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0508883
+tRp495
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604402
+tRp496
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604334
+tRp497
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001708
+tRp498
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1046097
+tRp499
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604422
+tRp500
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0828447
+tRp501
+ag4
+(V1934-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp502
+tRp503
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551397
+tRp504
+ag4
+(VIf You Have Ghosts
+NNtRp505
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0776795
+tRp506
+ag4
+(V1943-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp507
+tRp508
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001226
+tRp509
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt2248444
+tRp510
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604447
+tRp511
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604448
+tRp512
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0948188
+tRp513
+ag4
+(VJanice Rule
+NNtRp514
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505700
+tRp515
+ag4
+(VThe Wonderful Nightingale
+NNtRp516
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604354
+tRp517
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0810488
+tRp518
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001591
+tRp519
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551400
+tRp520
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0952778
+tRp521
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551388
+tRp522
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0814554
+tRp523
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604429
+tRp524
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0808949
+tRp525
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0864869
+tRp526
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0687152
+tRp527
+ag4
+(VNoah Plener
+NNtRp528
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0830967
+tRp529
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0357020
+tRp530
+ag4
+(VBrett Halsey
+NNtRp531
+ag4
+(V51
+NNtRp532
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3105532
+tRp533
+ag4
+(VDocventures
+NNtRp534
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0716915
+tRp535
+ag4
+(VImaginary Friend
+NNtRp536
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0247495
+tRp537
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt4128566
+tRp538
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883892
+tRp539
+ag4
+(V13
+NNtRp540
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0862937
+tRp541
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0941378
+tRp542
+ag4
+(V44
+NNtRp543
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0832187
+tRp544
+ag4
+(V1980-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp545
+tRp546
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1484410
+tRp547
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0822286
+tRp548
+ag4
+(V2006-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp549
+tRp550
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551394
+tRp551
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0518728
+tRp552
+ag4
+(V2000-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp553
+tRp554
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604440
+tRp555
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0080601
+tRp556
+ag4
+(Vdirector,producer,miscellaneous
+NNtRp557
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0805314
+tRp558
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505677
+tRp559
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0236494
+tRp560
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0290573
+tRp561
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551430
+tRp562
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604397
+tRp563
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505675
+tRp564
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0739349
+tRp565
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505696
+tRp566
+ag4
+(V1960-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp567
+tRp568
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0106728
+tRp569
+ag4
+(VDanny Breen
+NNtRp570
+ag4
+(V12
+NNtRp571
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604431
+tRp572
+ag4
+(Vactress,producer,executive
+NNtRp573
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0875499
+tRp574
+ag4
+(VThe Sleeping Beauty
+NNtRp575
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0561765
+tRp576
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505638
+tRp577
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001174
+tRp578
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505683
+tRp579
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0759972
+tRp580
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0569950
+tRp581
+ag4
+(Vwriter,miscellaneous,script_department
+NNtRp582
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0583686
+tRp583
+ag4
+(V1929-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp584
+tRp585
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829703
+tRp586
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0258425
+tRp587
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001663
+tRp588
+ag4
+(VPaul Reiser
+NNtRp589
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0941379
+tRp590
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0716918
+tRp591
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm3521294
+tRp592
+ag4
+(VMelissa James Gibson
+NNtRp593
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883877
+tRp594
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0520064
+tRp595
+ag4
+(Vproducer,actor,writer
+NNtRp596
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1843678
+tRp597
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0304681
+tRp598
+ag4
+(V2009-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp599
+tRp600
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0441069
+tRp601
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0847451
+tRp602
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0184578
+tRp603
+ag4
+(V1972-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp604
+tRp605
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3918768
+tRp606
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt5095732
+tRp607
+ag4
+(VDrama
+NNtRp608
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505690
+tRp609
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0991827
+tRp610
+ag4
+(VWine Maker
+NNtRp611
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3221232
+tRp612
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm3458490
+tRp613
+ag4
+(VBakemonogatari
+NNtRp614
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604392
+tRp615
+ag4
+(V15
+NNtRp616
+ag4
+(V31
+NNtRp617
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6950398
+tRp618
+ag4
+(V43
+NNtRp619
+ag4
+(VThe Night of the Dead Living
+NNtRp620
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0484829
+tRp621
+ag4
+(VThe Fires of Kanua
+NNtRp622
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551429
+tRp623
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0256146
+tRp624
+ag4
+(VMichelyn Emelle
+NNtRp625
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0791814
+tRp626
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0202970
+tRp627
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551407
+tRp628
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7320854
+tRp629
+ag4
+(V67
+NNtRp630
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0870094
+tRp631
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551403
+tRp632
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6950386
+tRp633
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6312916
+tRp634
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883880
+tRp635
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0921005
+tRp636
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505654
+tRp637
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0394812
+tRp638
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0007016
+tRp639
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604361
+tRp640
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm2018237
+tRp641
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt4057170
+tRp642
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001637
+tRp643
+ag4
+(VVincent Price
+NNtRp644
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829710
+tRp645
+ag4
+(VReality-TV
+NNtRp646
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0420718
+tRp647
+ag4
+(VConrad Dunn
+NNtRp648
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1506595
+tRp649
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1157358
+tRp650
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0005279
+tRp651
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0083109
+tRp652
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0628170
+tRp653
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551411
+tRp654
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604413
+tRp655
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3513862
+tRp656
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt2149331
+tRp657
+ag4
+(VDocumentary
+NNtRp658
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604407
+tRp659
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0002399
+tRp660
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0307750
+tRp661
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0015391
+tRp662
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt4035250
+tRp663
+ag4
+(V52
+NNtRp664
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0986592
+tRp665
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7576196
+tRp666
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505699
+tRp667
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000693
+tRp668
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0541635
+tRp669
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0482995
+tRp670
+ag4
+(VMax Lamb
+NNtRp671
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0512894
+tRp672
+ag4
+(V1933-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp673
+tRp674
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0327064
+tRp675
+ag4
+(V2016-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp676
+tRp677
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0770763
+tRp678
+ag4
+(V1936-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp679
+tRp680
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0586965
+tRp681
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0641397
+tRp682
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829717
+tRp683
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0003339
+tRp684
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505701
+tRp685
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604331
+tRp686
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3297502
+tRp687
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0923584
+tRp688
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt4817660
+tRp689
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0961577
+tRp690
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0739352
+tRp691
+ag4
+(VAssassinanny 911
+NNtRp692
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551389
+tRp693
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm2947042
+tRp694
+ag4
+(VLayton Williams
+NNtRp695
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000870
+tRp696
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604408
+tRp697
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001130
+tRp698
+ag4
+(Vdirector,producer,actor
+NNtRp699
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0179408
+tRp700
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505704
+tRp701
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0511798
+tRp702
+ag4
+(V1995-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp703
+tRp704
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1099918
+tRp705
+ag4
+(V1976-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp706
+tRp707
+ag4
+(VStephen Gyllenhaal
+NNtRp708
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829702
+tRp709
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0005212
+tRp710
+ag4
+(V1939-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp711
+tRp712
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt5218290
+tRp713
+ag4
+(VThe Doll
+NNtRp714
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0653899
+tRp715
+ag4
+(VEric Ellis Overmyer
+NNtRp716
+ag4
+(Vactress,soundtrack
+NNtRp717
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0902552
+tRp718
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0175788
+tRp719
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505685
+tRp720
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551404
+tRp721
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0278031
+tRp722
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604393
+tRp723
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1515101
+tRp724
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000459
+tRp725
+ag4
+(VCaptain Butcher
+NNtRp726
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1635721
+tRp727
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883885
+tRp728
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0059165
+tRp729
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505643
+tRp730
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604359
+tRp731
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6764872
+tRp732
+ag4
+(VLies and Other Truths
+NNtRp733
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505647
+tRp734
+ag4
+(VThe Hero
+NNtRp735
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7538918
+tRp736
+ag4
+(V53
+NNtRp737
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883895
+tRp738
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7576206
+tRp739
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883888
+tRp740
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0812071
+tRp741
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0252238
+tRp742
+ag4
+(VThe Therapists
+NNtRp743
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883890
+tRp744
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0197700
+tRp745
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6411844
+tRp746
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829692
+tRp747
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0847453
+tRp748
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0340981
+tRp749
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505627
+tRp750
+ag4
+(Vdirector,producer,writer
+NNtRp751
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551382
+tRp752
+ag4
+(VSecrets
+NNtRp753
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0002038
+tRp754
+ag4
+(VGloria DeHaven
+NNtRp755
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883882
+tRp756
+ag4
+(VHunted
+NNtRp757
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0558569
+tRp758
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3147690
+tRp759
+ag4
+(VChapter 64
+NNtRp760
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000839
+tRp761
+ag4
+(Vactress,writer,producer
+NNtRp762
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0575389
+tRp763
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604357
+tRp764
+ag4
+(VThe Korean Bookie
+NNtRp765
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604339
+tRp766
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0200488
+tRp767
+ag4
+(V1992-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp768
+tRp769
+ag4
+(V25
+NNtRp770
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0550694
+tRp771
+ag4
+(VJudy Marshak
+NNtRp772
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1640884
+tRp773
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7725192
+tRp774
+ag4
+(VNarcissus
+NNtRp775
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604424
+tRp776
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0004517
+tRp777
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0638395
+tRp778
+ag4
+(VFrance Nuyen
+NNtRp779
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001469
+tRp780
+ag4
+(Vproducer,writer,director
+NNtRp781
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1455452
+tRp782
+ag4
+(VTroy Paff
+NNtRp783
+ag4
+(VOther Lives
+NNtRp784
+ag4
+(V9
+NNtRp785
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt5218252
+tRp786
+ag4
+(VChapter 51
+NNtRp787
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0849911
+tRp788
+ag4
+(VJobs That Bite Harder
+NNtRp789
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0949026
+tRp790
+ag4
+(VJames Yoshimura
+NNtRp791
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1259871
+tRp792
+ag4
+(Vdirector
+NNtRp793
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt2250466
+tRp794
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm2125623
+tRp795
+ag4
+(VBridget Regan
+NNtRp796
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0739347
+tRp797
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505645
+tRp798
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883887
+tRp799
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0849909
+tRp800
+ag4
+(V19
+NNtRp801
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0066098
+tRp802
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0624809
+tRp803
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505659
+tRp804
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt5321340
+tRp805
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551424
+tRp806
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505672
+tRp807
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7126486
+tRp808
+ag4
+(VTown Gathering
+NNtRp809
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0166498
+tRp810
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt5095720
+tRp811
+ag4
+(V46
+NNtRp812
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0394821
+tRp813
+ag4
+(Vactor,soundtrack,writer
+NNtRp814
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0233036
+tRp815
+ag4
+(Vactor,miscellaneous,casting_director
+NNtRp816
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001774
+tRp817
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551384
+tRp818
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0739351
+tRp819
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0769840
+tRp820
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0567129
+tRp821
+ag4
+(V1971-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp822
+tRp823
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0309914
+tRp824
+ag4
+(VNicky Guadagni
+NNtRp825
+ag4
+(VThe Rat Dog
+NNtRp826
+ag4
+(VChristopher McCulloch
+NNtRp827
+ag4
+(VHill of Ghosts
+NNtRp828
+ag4
+(V8
+NNtRp829
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0067801
+tRp830
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001093
+tRp831
+ag4
+(V1956-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp832
+tRp833
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0031193
+tRp834
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0836070
+tRp835
+ag4
+(VGarbage Pit Technician
+NNtRp836
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0061510
+tRp837
+ag4
+(V24
+NNtRp838
+ag4
+(VFits Like a Glove
+NNtRp839
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505669
+tRp840
+ag4
+(V1977-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp841
+tRp842
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505623
+tRp843
+ag4
+(VA Bride for the Captain
+NNtRp844
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0090720
+tRp845
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0460711
+tRp846
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505681
+tRp847
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0835798
+tRp848
+ag4
+(Vactress
+NNtRp849
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1484411
+tRp850
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0593775
+tRp851
+ag4
+(Vactor,writer,soundtrack
+NNtRp852
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0017030
+tRp853
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0121720
+tRp854
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0716917
+tRp855
+ag4
+(V29
+NNtRp856
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0258524
+tRp857
+ag4
+(Vwriter,assistant_director,producer
+NNtRp858
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829695
+tRp859
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604426
+tRp860
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0575905
+tRp861
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0267176
+tRp862
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551395
+tRp863
+ag4
+(VShaq
+NNtRp864
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001714
+tRp865
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604427
+tRp866
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0717709
+tRp867
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551416
+tRp868
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0626350
+tRp869
+ag4
+(VCathleen Nesbitt
+NNtRp870
+ag4
+(VNathaniel Moreau
+NNtRp871
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0394818
+tRp872
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0558182
+tRp873
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0864879
+tRp874
+ag4
+(Vassistant_director,director,producer
+NNtRp875
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0647010
+tRp876
+ag4
+(VSusan Oliver
+NNtRp877
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0544718
+tRp878
+ag4
+(Vactress,producer,soundtrack
+NNtRp879
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm2080557
+tRp880
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1640879
+tRp881
+ag4
+(V1925-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp882
+tRp883
+ag4
+(VThe Brothers Gruff
+NNtRp884
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0009319
+tRp885
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0759974
+tRp886
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0137305
+tRp887
+ag4
+(V45
+NNtRp888
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505689
+tRp889
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0742341
+tRp890
+ag4
+(VStuart Rosenberg
+NNtRp891
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt2704380
+tRp892
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt8980674
+tRp893
+ag4
+(VThe Unicorn in Captivity
+NNtRp894
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0165101
+tRp895
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0724268
+tRp896
+ag4
+(V1974-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp897
+tRp898
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604362
+tRp899
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505639
+tRp900
+ag4
+(V32
+NNtRp901
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3897442
+tRp902
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829715
+tRp903
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt2248426
+tRp904
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505657
+tRp905
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0548533
+tRp906
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0921006
+tRp907
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0766558
+tRp908
+ag4
+(VKent Smith
+NNtRp909
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0351947
+tRp910
+ag4
+(V1968-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp911
+tRp912
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0573796
+tRp913
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604332
+tRp914
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm4017790
+tRp915
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0716914
+tRp916
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3892086
+tRp917
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0206259
+tRp918
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt2248422
+tRp919
+ag4
+(VSaigon Rose
+NNtRp920
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505694
+tRp921
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604410
+tRp922
+ag4
+(V1948-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp923
+tRp924
+ag4
+(VDirtiest Animals
+NNtRp925
+ag4
+(VAppointment at Tara-Bi
+NNtRp926
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829712
+tRp927
+ag4
+(VSkull Cleaner
+NNtRp928
+ag4
+(V10
+NNtRp929
+ag4
+(VJohn Crowley
+NNtRp930
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604438
+tRp931
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000951
+tRp932
+ag4
+(VPatrick Warburton
+NNtRp933
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829691
+tRp934
+ag4
+(VAlligator Farmer
+NNtRp935
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0281284
+tRp936
+ag4
+(VBarry Flatman
+NNtRp937
+ag4
+(VBen's Birthday Party
+NNtRp938
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829694
+tRp939
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551419
+tRp940
+ag4
+(VThe Ski Lift
+NNtRp941
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0220888
+tRp942
+ag4
+(Vactor,producer,casting_department
+NNtRp943
+ag4
+(VIan McKellen
+NNtRp944
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001445
+tRp945
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505702
+tRp946
+ag4
+(VChapter 21
+NNtRp947
+ag4
+(VBeached
+NNtRp948
+ag4
+(Vproducer,writer,miscellaneous
+NNtRp949
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0009953
+tRp950
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551387
+tRp951
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829713
+tRp952
+ag4
+(VSludge Cleaner
+NNtRp953
+ag4
+(VVehicular Fellatio
+NNtRp954
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0205659
+tRp955
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0866055
+tRp956
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604338
+tRp957
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0835651
+tRp958
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883884
+tRp959
+ag4
+(V1988-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp960
+tRp961
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0290529
+tRp962
+ag4
+(VChristmas Party
+NNtRp963
+ag4
+(VDown Will Come
+NNtRp964
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0394819
+tRp965
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6710716
+tRp966
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0935151
+tRp967
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt4057172
+tRp968
+ag4
+(VBlack Maps and Motel Rooms
+NNtRp969
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0590956
+tRp970
+ag4
+(V1930-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp971
+tRp972
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0443051
+tRp973
+ag4
+(V1991-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp974
+tRp975
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0822288
+tRp976
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt2294870
+tRp977
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0463894
+tRp978
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0557223
+tRp979
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0845936
+tRp980
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0739361
+tRp981
+ag4
+(VThe Bracelet
+NNtRp982
+ag4
+(V1957-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp983
+tRp984
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0590889
+tRp985
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551420
+tRp986
+ag4
+(VPowerless in the Face of Death
+NNtRp987
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0565887
+tRp988
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0394679
+tRp989
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000217
+tRp990
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0764588
+tRp991
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000178
+tRp992
+ag4
+(VDiane Lane
+NNtRp993
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0933778
+tRp994
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000316
+tRp995
+ag4
+(VLorna Wilson
+NNtRp996
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0575756
+tRp997
+ag4
+(VPatricia Medina
+NNtRp998
+ag4
+(VInterior Decorator
+NNtRp999
+ag4
+(VTom Fontana
+NNtRp1000
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505680
+tRp1001
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0011219
+tRp1002
+ag4
+(VHerman Epstein
+NNtRp1003
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0669004
+tRp1004
+ag4
+(VRichard Pearce
+NNtRp1005
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt4817670
+tRp1006
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883896
+tRp1007
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7576198
+tRp1008
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604347
+tRp1009
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604372
+tRp1010
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551385
+tRp1011
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0875500
+tRp1012
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505624
+tRp1013
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0808523
+tRp1014
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0296618
+tRp1015
+ag4
+(VA Very Venture Christmas
+NNtRp1016
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604373
+tRp1017
+ag4
+(V1908-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1018
+tRp1019
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551392
+tRp1020
+ag4
+(VEvery Mother's Son
+NNtRp1021
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3326204
+tRp1022
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0779507
+tRp1023
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0861502
+tRp1024
+ag4
+(V1967-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1025
+tRp1026
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7320860
+tRp1027
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt2356777
+tRp1028
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551413
+tRp1029
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1640887
+tRp1030
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0874133
+tRp1031
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551399
+tRp1032
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0903721
+tRp1033
+ag4
+(VSharon Elizabeth Doyle
+NNtRp1034
+ag4
+(Vactor,producer,soundtrack
+NNtRp1035
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883894
+tRp1036
+ag4
+(V48
+NNtRp1037
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0373745
+tRp1038
+ag4
+(VAntonie Hegerlíková
+NNtRp1039
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0739357
+tRp1040
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0071900
+tRp1041
+ag4
+(Vwriter,producer,actor
+NNtRp1042
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0006702
+tRp1043
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883875
+tRp1044
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0215877
+tRp1045
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0963391
+tRp1046
+ag4
+(VGene Wang
+NNtRp1047
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1049249
+tRp1048
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0603416
+tRp1049
+ag4
+(VMarsha Moreau
+NNtRp1050
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0875498
+tRp1051
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0722599
+tRp1052
+ag4
+(V1935-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1053
+tRp1054
+ag4
+(VThe Jonah Stone
+NNtRp1055
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505688
+tRp1056
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604399
+tRp1057
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0921007
+tRp1058
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0355357
+tRp1059
+ag4
+(VBrad Hall
+NNtRp1060
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0107012
+tRp1061
+ag4
+(VIn Search of Crimes Past
+NNtRp1062
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0591788
+tRp1063
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505653
+tRp1064
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0123643
+tRp1065
+ag4
+(VLance Burton
+NNtRp1066
+ag4
+(V1937-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1067
+tRp1068
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0391318
+tRp1069
+ag4
+(V1989-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1070
+tRp1071
+ag4
+(VThe Special Section
+NNtRp1072
+ag4
+(VThe Violent Journey
+NNtRp1073
+ag4
+(VThank You for Your Service
+NNtRp1074
+ag4
+(VSutton Roley
+NNtRp1075
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt5808896
+tRp1076
+ag4
+(VFoisted!
+NNtRp1077
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt4817664
+tRp1078
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0153078
+tRp1079
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551427
+tRp1080
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0575184
+tRp1081
+ag4
+(VNightmare in the Sun
+NNtRp1082
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt2440660
+tRp1083
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0758692
+tRp1084
+ag4
+(VAlbert Salmi
+NNtRp1085
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0912941
+tRp1086
+ag4
+(VClub Soda and Salt
+NNtRp1087
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0089980
+tRp1088
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0739350
+tRp1089
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551406
+tRp1090
+ag4
+(VThere Is an Island
+NNtRp1091
+ag4
+(Veditorial_department,producer,miscellaneous
+NNtRp1092
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0003733
+tRp1093
+ag4
+(Vdirector,producer,assistant_director
+NNtRp1094
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0360200
+tRp1095
+ag4
+(VMichael Dobbs
+NNtRp1096
+ag4
+(VValentine's Day
+NNtRp1097
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0851930
+tRp1098
+ag4
+(VAlan Taylor
+NNtRp1099
+ag4
+(VBenjamin Masselink
+NNtRp1100
+ag4
+(V1945-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1101
+tRp1102
+ag4
+(VNight Finds You
+NNtRp1103
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604337
+tRp1104
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0521289
+tRp1105
+ag4
+(VDonald Losby
+NNtRp1106
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0923404
+tRp1107
+ag4
+(V1915-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1108
+tRp1109
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0488024
+tRp1110
+ag4
+(VThe Weatherman
+NNtRp1111
+ag4
+(VPorno Gil
+NNtRp1112
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883889
+tRp1113
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0232278
+tRp1114
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883893
+tRp1115
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883879
+tRp1116
+ag4
+(VDrawn & Quartered
+NNtRp1117
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0964779
+tRp1118
+ag4
+(VTermite Controller
+NNtRp1119
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0481927
+tRp1120
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0315041
+tRp1121
+ag4
+(V1998-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1122
+tRp1123
+ag4
+(VThe Corpse-Sniffing Dog
+NNtRp1124
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0786193
+tRp1125
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505633
+tRp1126
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0739356
+tRp1127
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604430
+tRp1128
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505661
+tRp1129
+ag4
+(VAct of Piracy
+NNtRp1130
+ag4
+(VFaking Miracles
+NNtRp1131
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0066949
+tRp1132
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3221190
+tRp1133
+ag4
+(V49
+NNtRp1134
+ag4
+(VChapter 23
+NNtRp1135
+ag4
+(VCar Periscope
+NNtRp1136
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0211523
+tRp1137
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604388
+tRp1138
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0330704
+tRp1139
+ag4
+(VGraham Gordy
+NNtRp1140
+ag4
+(VFull Moon
+NNtRp1141
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0330057
+tRp1142
+ag4
+(VThe Wire
+NNtRp1143
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0639684
+tRp1144
+ag4
+(VThe Christ Nail
+NNtRp1145
+ag4
+(VOne Little Pearl
+NNtRp1146
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0937984
+tRp1147
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0800359
+tRp1148
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0755963
+tRp1149
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0482303
+tRp1150
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0293750
+tRp1151
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505678
+tRp1152
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604378
+tRp1153
+ag4
+(V2019-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1154
+tRp1155
+ag4
+(VCesare Danova
+NNtRp1156
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0051194
+tRp1157
+ag4
+(VBell Maker
+NNtRp1158
+ag4
+(Vactor,soundtrack,executive
+NNtRp1159
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505649
+tRp1160
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1013087
+tRp1161
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0422021
+tRp1162
+ag4
+(VHoward Jerome
+NNtRp1163
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0825731
+tRp1164
+ag4
+(V1942-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1165
+tRp1166
+ag4
+(Vproducer,writer,actress
+NNtRp1167
+ag4
+(V57
+NNtRp1168
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1049250
+tRp1169
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0941650
+tRp1170
+ag4
+(VHolly Wortell
+NNtRp1171
+ag4
+(Vsoundtrack,actress,director
+NNtRp1172
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0358478
+tRp1173
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001854
+tRp1174
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505642
+tRp1175
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0047810
+tRp1176
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0750422
+tRp1177
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604401
+tRp1178
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829707
+tRp1179
+ag4
+(VThe Intruders
+NNtRp1180
+ag4
+(VThe Serpent in the Garden
+NNtRp1181
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0739354
+tRp1182
+ag4
+(VA Shot in the Dark
+NNtRp1183
+ag4
+(V1928-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1184
+tRp1185
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0153759
+tRp1186
+ag4
+(VJ.B. Smoove
+NNtRp1187
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0709681
+tRp1188
+ag4
+(VRon Randell
+NNtRp1189
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0513269
+tRp1190
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt5024698
+tRp1191
+ag4
+(V1909-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1192
+tRp1193
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0532984
+tRp1194
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0758518
+tRp1195
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0095326
+tRp1196
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0743815
+tRp1197
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0601369
+tRp1198
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0132709
+tRp1199
+ag4
+(VChapter 30
+NNtRp1200
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0961354
+tRp1201
+ag4
+(VThomas Mitchell
+NNtRp1202
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0699120
+tRp1203
+ag4
+(V1996-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1204
+tRp1205
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0002104
+tRp1206
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604400
+tRp1207
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551414
+tRp1208
+ag4
+(VThe Massage
+NNtRp1209
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0499724
+tRp1210
+ag4
+(V1922-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1211
+tRp1212
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0948685
+tRp1213
+ag4
+(VThe Damage Done
+NNtRp1214
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0804556
+tRp1215
+ag4
+(VKari Skogland
+NNtRp1216
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1183064
+tRp1217
+ag4
+(VF.L. Vek
+NNtRp1218
+ag4
+(VJohn Kassir
+NNtRp1219
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0178066
+tRp1220
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604446
+tRp1221
+ag4
+(VReturn to Spider-Skull Island
+NNtRp1222
+ag4
+(VAll Is Bright
+NNtRp1223
+ag4
+(Vactor,miscellaneous
+NNtRp1224
+ag4
+(Vwriter,actor
+NNtRp1225
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1024524
+tRp1226
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883878
+tRp1227
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt4128572
+tRp1228
+ag4
+(VMule Logger
+NNtRp1229
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0760203
+tRp1230
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0759973
+tRp1231
+ag4
+(VQueens Back to Back
+NNtRp1232
+ag4
+(VThe Amazon
+NNtRp1233
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0003167
+tRp1234
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0195888
+tRp1235
+ag4
+(VFifi D'Orsay
+NNtRp1236
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1846099
+tRp1237
+ag4
+(VDaniel Stemer
+NNtRp1238
+ag4
+(VAna Belén
+NNtRp1239
+ag4
+(V374
+NNtRp1240
+ag4
+(VThe Baptism
+NNtRp1241
+ag4
+(VFred Freiberger
+NNtRp1242
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000799
+tRp1243
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0136520
+tRp1244
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0203008
+tRp1245
+ag4
+(VMichael David
+NNtRp1246
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551410
+tRp1247
+ag4
+(VThe Grand Opening
+NNtRp1248
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0642671
+tRp1249
+ag4
+(VWhitney Ransick
+NNtRp1250
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0445523
+tRp1251
+ag4
+(VCecil Kellaway
+NNtRp1252
+ag4
+(VColors
+NNtRp1253
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0662164
+tRp1254
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0434990
+tRp1255
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt2790174
+tRp1256
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0849907
+tRp1257
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505648
+tRp1258
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0058296
+tRp1259
+ag4
+(V1970-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1260
+tRp1261
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6950380
+tRp1262
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505673
+tRp1263
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0921942
+tRp1264
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604395
+tRp1265
+ag4
+(VInger Stevens
+NNtRp1266
+ag4
+(VHappy to Be Here
+NNtRp1267
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604436
+tRp1268
+ag4
+(VStakeout
+NNtRp1269
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7576194
+tRp1270
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0020511
+tRp1271
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0375959
+tRp1272
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0259152
+tRp1273
+ag4
+(V2020-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1274
+tRp1275
+ag4
+(Vproducer,director,actor
+NNtRp1276
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0855440
+tRp1277
+ag4
+(V59
+NNtRp1278
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829693
+tRp1279
+ag4
+(VRick Marshall
+NNtRp1280
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604425
+tRp1281
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0394815
+tRp1282
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0384696
+tRp1283
+ag4
+(VSteven Hill
+NNtRp1284
+ag4
+(VDavid Mills
+NNtRp1285
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0385922
+tRp1286
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829705
+tRp1287
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0941380
+tRp1288
+ag4
+(VWilliam Link
+NNtRp1289
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604343
+tRp1290
+ag4
+(VChapter 68
+NNtRp1291
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0739353
+tRp1292
+ag4
+(VHome Insecurity
+NNtRp1293
+ag4
+(Vwriter,producer,director
+NNtRp1294
+ag4
+(VMap of the Heart
+NNtRp1295
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0817748
+tRp1296
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0393661
+tRp1297
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001544
+tRp1298
+ag4
+(V1920-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1299
+tRp1300
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0849910
+tRp1301
+ag4
+(VKrazee-Eyez Killa
+NNtRp1302
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0900134
+tRp1303
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505674
+tRp1304
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0171315
+tRp1305
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551398
+tRp1306
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604415
+tRp1307
+ag4
+(VTrick or Treat
+NNtRp1308
+ag4
+(VDoc Hammer
+NNtRp1309
+ag4
+(Vdirector,actor,producer
+NNtRp1310
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1154650
+tRp1311
+ag4
+(VSamuel Barnett
+NNtRp1312
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0926338
+tRp1313
+ag4
+(V1982-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1314
+tRp1315
+ag4
+(VJulia Louis-Dreyfus
+NNtRp1316
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0003163
+tRp1317
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0869927
+tRp1318
+ag4
+(VConstance Towers
+NNtRp1319
+ag4
+(VTreasure Hunt
+NNtRp1320
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0557339
+tRp1321
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551381
+tRp1322
+ag4
+(VThe Secret Place
+NNtRp1323
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0504064
+tRp1324
+ag4
+(Vactress,writer
+NNtRp1325
+ag4
+(VGhosts of the Sargasso
+NNtRp1326
+ag4
+(Vactor,editor,director
+NNtRp1327
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0825198
+tRp1328
+ag4
+(VShow Me a Hero
+NNtRp1329
+ag4
+(V47
+NNtRp1330
+ag4
+(Vdirector,actor,writer
+NNtRp1331
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0028647
+tRp1332
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505692
+tRp1333
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0249421
+tRp1334
+ag4
+(Vproducer,writer,animation_department
+NNtRp1335
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0107746
+tRp1336
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604404
+tRp1337
+ag4
+(V2013-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1338
+tRp1339
+ag4
+(VChapter 25
+NNtRp1340
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0456124
+tRp1341
+ag4
+(Vactor,soundtrack,director
+NNtRp1342
+ag4
+(VDavid M. Barsky
+NNtRp1343
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0330349
+tRp1344
+ag4
+(V2008-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1345
+tRp1346
+ag4
+(Vwriter,miscellaneous
+NNtRp1347
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0284064
+tRp1348
+ag4
+(VIsle of Eden
+NNtRp1349
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0779261
+tRp1350
+ag4
+(VJacqueline Scott
+NNtRp1351
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1942896
+tRp1352
+ag4
+(VBruce Parry
+NNtRp1353
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0843050
+tRp1354
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt2298919
+tRp1355
+ag4
+(VLupin the Third: A Woman Called Fujiko Mine
+NNtRp1356
+ag4
+(VPeter Medak
+NNtRp1357
+ag4
+(VThe Color of Venom
+NNtRp1358
+ag4
+(VKazoops!
+NNtRp1359
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt2790238
+tRp1360
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604433
+tRp1361
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0755261
+tRp1362
+ag4
+(Vproducer,director,editorial_department
+NNtRp1363
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0035024
+tRp1364
+ag4
+(V1914-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1365
+tRp1366
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551415
+tRp1367
+ag4
+(VKiss Tomorrow Goodbye
+NNtRp1368
+ag4
+(VDead End
+NNtRp1369
+ag4
+(VChapter 69
+NNtRp1370
+ag4
+(Vdirector,producer,editor
+NNtRp1371
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829708
+tRp1372
+ag4
+(VPig Farmer
+NNtRp1373
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0604403
+tRp1374
+ag4
+(VPit Bull Sessions
+NNtRp1375
+ag4
+(Vwriter,actress,miscellaneous
+NNtRp1376
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0275835
+tRp1377
+ag4
+(Vwriter,director,editor
+NNtRp1378
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6010608
+tRp1379
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001551
+tRp1380
+ag4
+(VAlanis Morissette
+NNtRp1381
+ag4
+(Vactor,director,writer
+NNtRp1382
+ag4
+(Vactress,soundtrack,director
+NNtRp1383
+ag4
+(Vactor,director,producer
+NNtRp1384
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0330360
+tRp1385
+ag4
+(VKeith Gordon
+NNtRp1386
+ag4
+(VDominic Zamprogna
+NNtRp1387
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0963342
+tRp1388
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0959567
+tRp1389
+ag4
+(VRafael Álvarez
+NNtRp1390
+ag4
+(VWell Digger
+NNtRp1391
+ag4
+(VM.E., Myself and I
+NNtRp1392
+ag4
+(VWalk Through the Night
+NNtRp1393
+ag4
+(VThe Beach at Belle Anse
+NNtRp1394
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1264521
+tRp1395
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0309607
+tRp1396
+ag4
+(Vdirector,miscellaneous
+NNtRp1397
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0320637
+tRp1398
+ag4
+(VJorge Zamacona
+NNtRp1399
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1552648
+tRp1400
+ag4
+(VCrime,Documentary
+NNtRp1401
+ag4
+(VEdward Andrews
+NNtRp1402
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0147689
+tRp1403
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1577524
+tRp1404
+ag4
+(VPassage to Tua
+NNtRp1405
+ag4
+(VHolly Dale
+NNtRp1406
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0637041
+tRp1407
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001827
+tRp1408
+ag4
+(VLisa Hammer
+NNtRp1409
+ag4
+(VShrimper
+NNtRp1410
+ag4
+(VChapter 29
+NNtRp1411
+ag4
+(V1918-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1412
+tRp1413
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0012443
+tRp1414
+ag4
+(V1921-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1415
+tRp1416
+ag4
+(V1926-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1417
+tRp1418
+ag4
+(VChick Sexer
+NNtRp1419
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0367001
+tRp1420
+ag4
+(V1904-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1421
+tRp1422
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt3897454
+tRp1423
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1328076
+tRp1424
+ag4
+(Vactress,producer,director
+NNtRp1425
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505660
+tRp1426
+ag4
+(VBirthday
+NNtRp1427
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0327089
+tRp1428
+ag4
+(VThomas Gomez
+NNtRp1429
+ag4
+(VKamikaze Bingo
+NNtRp1430
+ag4
+(VNamaste
+NNtRp1431
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0925878
+tRp1432
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0908265
+tRp1433
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0273178
+tRp1434
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551428
+tRp1435
+ag4
+(VThor
+NNtRp1436
+ag4
+(VThe Lady from South Chicago
+NNtRp1437
+ag4
+(VBetrayal
+NNtRp1438
+ag4
+(Vactress,soundtrack,producer
+NNtRp1439
+ag4
+(VThe Good Killing
+NNtRp1440
+ag4
+(VAffirmative Action
+NNtRp1441
+ag4
+(VChapter 61
+NNtRp1442
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001433
+tRp1443
+ag4
+(Vactor,writer,director
+NNtRp1444
+ag4
+(Vactor,miscellaneous,writer
+NNtRp1445
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0724143
+tRp1446
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0607545
+tRp1447
+ag4
+(V1946-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1448
+tRp1449
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0555494
+tRp1450
+ag4
+(VJaroslav Marvan
+NNtRp1451
+ag4
+(VMary, Joseph and Larry
+NNtRp1452
+ag4
+(VThe Car Pool Lane
+NNtRp1453
+ag4
+(V1923-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1454
+tRp1455
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0717395
+tRp1456
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0709825
+tRp1457
+ag4
+(VChapter 19
+NNtRp1458
+ag4
+(Vactor,writer,producer
+NNtRp1459
+ag4
+(Vactor,art_department
+NNtRp1460
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm2137749
+tRp1461
+ag4
+(VJoyce Gordon
+NNtRp1462
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1066093
+tRp1463
+ag4
+(VHarry Miles Muheim
+NNtRp1464
+ag4
+(VMonkey Caretaker
+NNtRp1465
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0233209
+tRp1466
+ag4
+(VThe Documentary
+NNtRp1467
+ag4
+(VHoof Cleaner
+NNtRp1468
+ag4
+(VAutofocus
+NNtRp1469
+ag4
+(VChapter 63
+NNtRp1470
+ag4
+(V50
+NNtRp1471
+ag4
+(VWandering Bear
+NNtRp1472
+ag4
+(VWaste Not, Haunt Not
+NNtRp1473
+ag4
+(VKenneth Fink
+NNtRp1474
+ag4
+(VRicky Gervais
+NNtRp1475
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0247720
+tRp1476
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0931525
+tRp1477
+ag4
+(V1897-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1478
+tRp1479
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6950410
+tRp1480
+ag4
+(VAnimation,Comedy,Family
+NNtRp1481
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0653554
+tRp1482
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0004282
+tRp1483
+ag4
+(V2011-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1484
+tRp1485
+ag4
+(Vcamera_department,cinematographer,producer
+NNtRp1486
+ag4
+(V1949-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1487
+tRp1488
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0942863
+tRp1489
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0925873
+tRp1490
+ag4
+(VPeter Gerety
+NNtRp1491
+ag4
+(V17
+NNtRp1492
+ag4
+(Vproducer,director,writer
+NNtRp1493
+ag4
+(VAndre Braugher
+NNtRp1494
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0125579
+tRp1495
+ag4
+(VThe Doorbell Rang
+NNtRp1496
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0094915
+tRp1497
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0485729
+tRp1498
+ag4
+(VDoor to Death
+NNtRp1499
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0047896
+tRp1500
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0080276
+tRp1501
+ag4
+(Vactor,writer,music_department
+NNtRp1502
+ag4
+(VJana Brejchová
+NNtRp1503
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505652
+tRp1504
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0462017
+tRp1505
+ag4
+(VThe Silent Speaker: Part 1
+NNtRp1506
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0649055
+tRp1507
+ag4
+(Vactor,writer
+NNtRp1508
+ag4
+(VReally Dirty Animals
+NNtRp1509
+ag4
+(VChapter 4
+NNtRp1510
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0959112
+tRp1511
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0055645
+tRp1512
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0799591
+tRp1513
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0528927
+tRp1514
+ag4
+(V1905-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1515
+tRp1516
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001888
+tRp1517
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1058940
+tRp1518
+ag4
+(VThe Silent Speaker: Part 2
+NNtRp1519
+ag4
+(V1953-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1520
+tRp1521
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0014953
+tRp1522
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0315792
+tRp1523
+ag4
+(VKulvinder Ghir
+NNtRp1524
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0886657
+tRp1525
+ag4
+(VThe Larry David Sandwich
+NNtRp1526
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm2235310
+tRp1527
+ag4
+(VJeff Richards
+NNtRp1528
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0628325
+tRp1529
+ag4
+(VMike Rowe
+NNtRp1530
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm3542197
+tRp1531
+ag4
+(VKeith Huff
+NNtRp1532
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001687
+tRp1533
+ag4
+(VGena Rowlands
+NNtRp1534
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0931120
+tRp1535
+ag4
+(VLarry Williams
+NNtRp1536
+ag4
+(VDaniel Cummings
+NNtRp1537
+ag4
+(VBarbara Stuart
+NNtRp1538
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505668
+tRp1539
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0120111
+tRp1540
+ag4
+(VAmelia Bullmore
+NNtRp1541
+ag4
+(VFrancis D. Lyon
+NNtRp1542
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1325233
+tRp1543
+ag4
+(Vactress,producer,writer
+NNtRp1544
+ag4
+(VMara Corday
+NNtRp1545
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0773663
+tRp1546
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt1527329
+tRp1547
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0497247
+tRp1548
+ag4
+(VEugene Lee
+NNtRp1549
+ag4
+(VWine Cave Digger
+NNtRp1550
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm2422433
+tRp1551
+ag4
+(Vmiscellaneous,producer,writer
+NNtRp1552
+ag4
+(Vmiscellaneous,writer
+NNtRp1553
+ag4
+(V2010-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1554
+tRp1555
+ag4
+(VIce Station Impossible
+NNtRp1556
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm5940483
+tRp1557
+ag4
+(VKenneth Lin
+NNtRp1558
+ag4
+(VChapter 22
+NNtRp1559
+ag4
+(VPaul Haddad
+NNtRp1560
+ag4
+(VChurch in Ruins
+NNtRp1561
+ag4
+(VBeau Willimon
+NNtRp1562
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0285576
+tRp1563
+ag4
+(VConstance Ford
+NNtRp1564
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0219666
+tRp1565
+ag4
+(VThe Works, in Wax
+NNtRp1566
+ag4
+(VHangman's Island
+NNtRp1567
+ag4
+(VChapter 70
+NNtRp1568
+ag4
+(V1893-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1569
+tRp1570
+ag4
+(VStuart Stone
+NNtRp1571
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0328731
+tRp1572
+ag4
+(VDie Abenteuer des braven Soldaten Schwejk
+NNtRp1573
+ag4
+(VLaura Eason
+NNtRp1574
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt5218278
+tRp1575
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0842934
+tRp1576
+ag4
+(Vactress,writer,miscellaneous
+NNtRp1577
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt2582590
+tRp1578
+ag4
+(VChapter 18
+NNtRp1579
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0764601
+tRp1580
+ag4
+(VNever Mending Story
+NNtRp1581
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0739987
+tRp1582
+ag4
+(Vdirector,producer
+NNtRp1583
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000114
+tRp1584
+ag4
+(VThe Siege of Troy
+NNtRp1585
+ag4
+(VAAMCO
+NNtRp1586
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm7450001
+tRp1587
+ag4
+(VScott Lasser
+NNtRp1588
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000190
+tRp1589
+ag4
+(Vwriter,director,producer
+NNtRp1590
+ag4
+(Vactress,director,producer
+NNtRp1591
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001171
+tRp1592
+ag4
+(VHello Goodbye
+NNtRp1593
+ag4
+(VThe Weeping Woman
+NNtRp1594
+ag4
+(VEmiri Kato
+NNtRp1595
+ag4
+(VFrank Chase
+NNtRp1596
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0825559
+tRp1597
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0498436
+tRp1598
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0704719
+tRp1599
+ag4
+(VHenry Slate
+NNtRp1600
+ag4
+(VLupin the Third: Mine Fujiko to iu onna
+NNtRp1601
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6739316
+tRp1602
+ag4
+(Vmiscellaneous,writer,producer
+NNtRp1603
+ag4
+(Vactress,miscellaneous,soundtrack
+NNtRp1604
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000736
+tRp1605
+ag4
+(VRobert Aldrich
+NNtRp1606
+ag4
+(VPeter Sauder
+NNtRp1607
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0904177
+tRp1608
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0318703
+tRp1609
+ag4
+(VLaraine Newman
+NNtRp1610
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0565277
+tRp1611
+ag4
+(VGorilla's Paw
+NNtRp1612
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829697
+tRp1613
+ag4
+(VBlack and Blue
+NNtRp1614
+ag4
+(VCompetitive Spirit
+NNtRp1615
+ag4
+(VJobs That Bite
+NNtRp1616
+ag4
+(VJoanna Moore
+NNtRp1617
+ag4
+(VBeloved Aunt
+NNtRp1618
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829714
+tRp1619
+ag4
+(VMairon Bennett
+NNtRp1620
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm5620591
+tRp1621
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0754781
+tRp1622
+ag4
+(VCIA: Crime Investigation Australia
+NNtRp1623
+ag4
+(VShowdown at Cremation Creek: Part 2
+NNtRp1624
+ag4
+(VJames Thomton
+NNtRp1625
+ag4
+(VViewer's Choice
+NNtRp1626
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0089276
+tRp1627
+ag4
+(Vdirector,assistant_director,producer
+NNtRp1628
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm2512405
+tRp1629
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0883873
+tRp1630
+ag4
+(VFor God and Country
+NNtRp1631
+ag4
+(VThe Black Swan
+NNtRp1632
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0528658
+tRp1633
+ag4
+(VPartners and Other Strangers
+NNtRp1634
+ag4
+(VRobert F. Simon
+NNtRp1635
+ag4
+(VThe Acupuncturist
+NNtRp1636
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0484479
+tRp1637
+ag4
+(VLaw & Disorder
+NNtRp1638
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0779673
+tRp1639
+ag4
+(VErrand of Mercy
+NNtRp1640
+ag4
+(VHunters in the Dark
+NNtRp1641
+ag4
+(VCarroll O'Connor
+NNtRp1642
+ag4
+(VExtreme Unction
+NNtRp1643
+ag4
+(VCastaways
+NNtRp1644
+ag4
+(VThe Closing Circle
+NNtRp1645
+ag4
+(VMan Eater
+NNtRp1646
+ag4
+(Vmiscellaneous,production_manager,producer
+NNtRp1647
+ag4
+(VMichelle Monaghan
+NNtRp1648
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0436778
+tRp1649
+ag4
+(V1975-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1650
+tRp1651
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0395097
+tRp1652
+ag4
+(VCraig Horner
+NNtRp1653
+ag4
+(VCheryl Hines
+NNtRp1654
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0183764
+tRp1655
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000632
+tRp1656
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0599656
+tRp1657
+ag4
+(VLiliane Montevecchi
+NNtRp1658
+ag4
+(VHazel Court
+NNtRp1659
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0530048
+tRp1660
+ag4
+(VCharo López
+NNtRp1661
+ag4
+(V1911-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1662
+tRp1663
+ag4
+(V35
+NNtRp1664
+ag4
+(VChapter 31
+NNtRp1665
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0551409
+tRp1666
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0475737
+tRp1667
+ag4
+(VCoal Miner
+NNtRp1668
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0945290
+tRp1669
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0182871
+tRp1670
+ag4
+(VJuan Carlos Coto
+NNtRp1671
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0824489
+tRp1672
+ag4
+(Vactress,producer
+NNtRp1673
+ag4
+(VWho Goes There
+NNtRp1674
+ag4
+(Vcinematographer,director,producer
+NNtRp1675
+ag4
+(VThe Last of the Watermen
+NNtRp1676
+ag4
+(VLegend of the Seeker
+NNtRp1677
+ag4
+(VBlueprint for Paradise
+NNtRp1678
+ag4
+(VPurple Zappa
+NNtRp1679
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0401738
+tRp1680
+ag4
+(VCyril Hume
+NNtRp1681
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0687189
+tRp1682
+ag4
+(VChapter 59
+NNtRp1683
+ag4
+(VHeads, You Lose
+NNtRp1684
+ag4
+(VScene of the Crime
+NNtRp1685
+ag4
+(VJ.D. Smith
+NNtRp1686
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001710
+tRp1687
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0554718
+tRp1688
+ag4
+(Vactress,editor,producer
+NNtRp1689
+ag4
+(VChapter 27
+NNtRp1690
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0505665
+tRp1691
+ag4
+(VSink or Swim
+NNtRp1692
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0869664
+tRp1693
+ag4
+(Vdirector,assistant_director,editor
+NNtRp1694
+ag4
+(VThe Seder
+NNtRp1695
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0525570
+tRp1696
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0654433
+tRp1697
+ag4
+(VComedy,War
+NNtRp1698
+ag4
+(V42
+NNtRp1699
+ag4
+(VCommand at Sea
+NNtRp1700
+ag4
+(VHyde and Go Shriek
+NNtRp1701
+ag4
+(VNathan Darrow
+NNtRp1702
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0440542
+tRp1703
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0654239
+tRp1704
+ag4
+(V1910-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1705
+tRp1706
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0779059
+tRp1707
+ag4
+(VFiona Allen
+NNtRp1708
+ag4
+(VRadovan Lukavský
+NNtRp1709
+ag4
+(Vproducer,actor,director
+NNtRp1710
+ag4
+(VSon of a Gun
+NNtRp1711
+ag4
+(VThe Baby Sitters
+NNtRp1712
+ag4
+(VAll the Gory Details
+NNtRp1713
+ag4
+(V1969-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1714
+tRp1715
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0366004
+tRp1716
+ag4
+(VThe Pants Tent
+NNtRp1717
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0006853
+tRp1718
+ag4
+(VDirtiest Water Jobs
+NNtRp1719
+ag4
+(VLani Kai
+NNtRp1720
+ag4
+(VHouse of Cards
+NNtRp1721
+ag4
+(VFull Court Press
+NNtRp1722
+ag4
+(V33
+NNtRp1723
+ag4
+(Vmiscellaneous,writer,assistant_director
+NNtRp1724
+ag4
+(VDia de los Dangerous
+NNtRp1725
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0936976
+tRp1726
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1309201
+tRp1727
+ag4
+(VTalbot Jennings
+NNtRp1728
+ag4
+(VTransylvania Express
+NNtRp1729
+ag4
+(VPaul Attanasio
+NNtRp1730
+ag4
+(VThe Incredible Mr. Brisby
+NNtRp1731
+ag4
+(VSuranne Jones
+NNtRp1732
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001394
+tRp1733
+ag4
+(VDerek Jacobi
+NNtRp1734
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0847452
+tRp1735
+ag4
+(VI Know Why the Caged Bird Kills
+NNtRp1736
+ag4
+(VThe TiVo Guy
+NNtRp1737
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0661751
+tRp1738
+ag4
+(VDean Parisot
+NNtRp1739
+ag4
+(VOfficer Krupke
+NNtRp1740
+ag4
+(VGladys Cooper
+NNtRp1741
+ag4
+(VNature
+NNtRp1742
+ag4
+(VPartners
+NNtRp1743
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0195821
+tRp1744
+ag4
+(VDaniel Minahan
+NNtRp1745
+ag4
+(VAllan Balter
+NNtRp1746
+ag4
+(VDan O'Herlihy
+NNtRp1747
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0157842
+tRp1748
+ag4
+(V1964-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1749
+tRp1750
+ag4
+(VSo Very Attractive
+NNtRp1751
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0336241
+tRp1752
+ag4
+(VAlex Graves
+NNtRp1753
+ag4
+(VJohn Fiedler
+NNtRp1754
+ag4
+(V1983-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1755
+tRp1756
+ag4
+(VTim Hunter
+NNtRp1757
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1543455
+tRp1758
+ag4
+(VJohn Larch
+NNtRp1759
+ag4
+(VD. Keith Mano
+NNtRp1760
+ag4
+(VDisguise for Murder
+NNtRp1761
+ag4
+(Vactor,director,soundtrack
+NNtRp1762
+ag4
+(V28
+NNtRp1763
+ag4
+(VThe Quest of Ambrose Feather
+NNtRp1764
+ag4
+(VCheese Maker
+NNtRp1765
+ag4
+(Vdirector,writer,actor
+NNtRp1766
+ag4
+(VThe Velvet Trap
+NNtRp1767
+ag4
+(V1927-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1768
+tRp1769
+ag4
+(VTanks for Nuthin'
+NNtRp1770
+ag4
+(VMaribel Martín
+NNtRp1771
+ag4
+(Vactor,soundtrack,miscellaneous
+NNtRp1772
+ag4
+(Vwriter,actor,producer
+NNtRp1773
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0152839
+tRp1774
+ag4
+(V1954-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1775
+tRp1776
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0418148
+tRp1777
+ag4
+(V1931-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1778
+tRp1779
+ag4
+(VParadise Lost
+NNtRp1780
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0607507
+tRp1781
+ag4
+(V1888-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1782
+tRp1783
+ag4
+(Vdirector,cinematographer,producer
+NNtRp1784
+ag4
+(VCurb Your Enthusiasm
+NNtRp1785
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0672074
+tRp1786
+ag4
+(VBruno Kirby
+NNtRp1787
+ag4
+(VGhost of a Chance
+NNtRp1788
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0815718
+tRp1789
+ag4
+(VFinnegan's Wake
+NNtRp1790
+ag4
+(VMichael Donovan
+NNtRp1791
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0604968
+tRp1792
+ag4
+(VThe Haunted Mine
+NNtRp1793
+ag4
+(VAlexis Smith
+NNtRp1794
+ag4
+(VTom Gries
+NNtRp1795
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0393222
+tRp1796
+ag4
+(Vactor,producer,writer
+NNtRp1797
+ag4
+(VAlvin Sapinsley
+NNtRp1798
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0606998
+tRp1799
+ag4
+(VKen Kolb
+NNtRp1800
+ag4
+(VRequiem for Adena
+NNtRp1801
+ag4
+(VNearer My God to Thee
+NNtRp1802
+ag4
+(V23
+NNtRp1803
+ag4
+(VKathy Bates
+NNtRp1804
+ag4
+(VPrisoner in Paradise
+NNtRp1805
+ag4
+(V54
+NNtRp1806
+ag4
+(VDavid Orrick McDearmon
+NNtRp1807
+ag4
+(VDavid Finley
+NNtRp1808
+ag4
+(VBen Stiller
+NNtRp1809
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0936115
+tRp1810
+ag4
+(V1984-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1811
+tRp1812
+ag4
+(VCop Killer
+NNtRp1813
+ag4
+(VLuke Ward-Wilkinson
+NNtRp1814
+ag4
+(VCubby House
+NNtRp1815
+ag4
+(VHelp Wanted, Male
+NNtRp1816
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0816670
+tRp1817
+ag4
+(V1985-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1818
+tRp1819
+ag4
+(VChapter 72
+NNtRp1820
+ag4
+(VChapter 28
+NNtRp1821
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm7134203
+tRp1822
+ag4
+(VThe Nanny from Hell
+NNtRp1823
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0903656
+tRp1824
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt7709596
+tRp1825
+ag4
+(VUncle Harry's Horrible House of Horrors
+NNtRp1826
+ag4
+(VThe Hot Towel
+NNtRp1827
+ag4
+(VA Doll's Eyes
+NNtRp1828
+ag4
+(VRobert Florey
+NNtRp1829
+ag4
+(Vwriter,producer
+NNtRp1830
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0482936
+tRp1831
+ag4
+(VDave Lamb
+NNtRp1832
+ag4
+(Vdirector,writer,assistant_director
+NNtRp1833
+ag4
+(VThe Archer's Ring
+NNtRp1834
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm2264489
+tRp1835
+ag4
+(VWill Hathaway
+NNtRp1836
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1522141
+tRp1837
+ag4
+(VFare Tonight
+NNtRp1838
+ag4
+(Vdirector,producer,art_department
+NNtRp1839
+ag4
+(VMartin Campbell
+NNtRp1840
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000843
+tRp1841
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0888742
+tRp1842
+ag4
+(V1890-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1843
+tRp1844
+ag4
+(VChapter 17
+NNtRp1845
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0564928
+tRp1846
+ag4
+(V360
+NNtRp1847
+ag4
+(VLarry David
+NNtRp1848
+ag4
+(VValentina Cardinalli
+NNtRp1849
+ag4
+(VThe True Test
+NNtRp1850
+ag4
+(V1951-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1851
+tRp1852
+ag4
+(VRichard Lewis
+NNtRp1853
+ag4
+(VChapter 32
+NNtRp1854
+ag4
+(VBill Barrett
+NNtRp1855
+ag4
+(VMichael Pertwee
+NNtRp1856
+ag4
+(Vdirector,art_department
+NNtRp1857
+ag4
+(VMike Kellin
+NNtRp1858
+ag4
+(VBad Medicine
+NNtRp1859
+ag4
+(VWhile the Cat's Away
+NNtRp1860
+ag4
+(VPoo Pot Maker
+NNtRp1861
+ag4
+(VThe Perils of Penrose
+NNtRp1862
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0661118
+tRp1863
+ag4
+(VCasino Food Recycler
+NNtRp1864
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0562388
+tRp1865
+ag4
+(Vactress,miscellaneous
+NNtRp1866
+ag4
+(V34
+NNtRp1867
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0704983
+tRp1868
+ag4
+(VWilliam Rabkin
+NNtRp1869
+ag4
+(VRapacity in Blue
+NNtRp1870
+ag4
+(VGeorge Lopez
+NNtRp1871
+ag4
+(VCreepy Critters
+NNtRp1872
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0235096
+tRp1873
+ag4
+(V1990-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1874
+tRp1875
+ag4
+(VThrill of the Kill
+NNtRp1876
+ag4
+(VHiroshi Kamiya
+NNtRp1877
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001868
+tRp1878
+ag4
+(VMichael York
+NNtRp1879
+ag4
+(VTakahiro Sakurai
+NNtRp1880
+ag4
+(VJames B. Douglas
+NNtRp1881
+ag4
+(VBryan Gordon
+NNtRp1882
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0424318
+tRp1883
+ag4
+(VBruce Gordon
+NNtRp1884
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0667326
+tRp1885
+ag4
+(Vactor,soundtrack,music_department
+NNtRp1886
+ag4
+(VChapter 58
+NNtRp1887
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0306201
+tRp1888
+ag4
+(VRobert B. Weide
+NNtRp1889
+ag4
+(VThe Lefty Call
+NNtRp1890
+ag4
+(VNoam Zylberman
+NNtRp1891
+ag4
+(VBarry Levinson
+NNtRp1892
+ag4
+(VThe Reluctant Hero
+NNtRp1893
+ag4
+(VJulie Newmar
+NNtRp1894
+ag4
+(VFrank Pugliese
+NNtRp1895
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0454236
+tRp1896
+ag4
+(VA Touch of Genius
+NNtRp1897
+ag4
+(VThe Venture Bros.
+NNtRp1898
+ag4
+(V56
+NNtRp1899
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0799972
+tRp1900
+ag4
+(VJean de Segonzac
+NNtRp1901
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0679013
+tRp1902
+ag4
+(Vdirector,art_department,writer
+NNtRp1903
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0500552
+tRp1904
+ag4
+(VChapter 38
+NNtRp1905
+ag4
+(VAlvin Ganzer
+NNtRp1906
+ag4
+(VSee No Evil
+NNtRp1907
+ag4
+(VThe City That Bleeds
+NNtRp1908
+ag4
+(VChet's Shirt
+NNtRp1909
+ag4
+(VThe Blind Date
+NNtRp1910
+ag4
+(VFix It Mum and Dad
+NNtRp1911
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0194036
+tRp1912
+ag4
+(VPatricia Cutts
+NNtRp1913
+ag4
+(VTrouble in Store
+NNtRp1914
+ag4
+(VMel's Offer
+NNtRp1915
+ag4
+(Vactor,music_department,producer
+NNtRp1916
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0874353
+tRp1917
+ag4
+(V1940-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1918
+tRp1919
+ag4
+(Vactress,writer,soundtrack
+NNtRp1920
+ag4
+(VDavid Schwimmer
+NNtRp1921
+ag4
+(VKevin Spacey
+NNtRp1922
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0569214
+tRp1923
+ag4
+(VPeter Weller
+NNtRp1924
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0935329
+tRp1925
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1524584
+tRp1926
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0919735
+tRp1927
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0569410
+tRp1928
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0836071
+tRp1929
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt6950392
+tRp1930
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0658885
+tRp1931
+ag4
+(VAugust Schellenberg
+NNtRp1932
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0861538
+tRp1933
+ag4
+(VGrounds for Horror
+NNtRp1934
+ag4
+(VGuess Who's Coming to State Dinner?
+NNtRp1935
+ag4
+(VOpening Night
+NNtRp1936
+ag4
+(VThe Terrorist Attack
+NNtRp1937
+ag4
+(VVicious
+NNtRp1938
+ag4
+(VDavid Schurmann
+NNtRp1939
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0008231
+tRp1940
+ag4
+(VBuild My Gallows Low
+NNtRp1941
+ag4
+(VBruce Paltrow
+NNtRp1942
+ag4
+(Vactor,sound_department,miscellaneous
+NNtRp1943
+ag4
+(Vactor,writer,miscellaneous
+NNtRp1944
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0585557
+tRp1945
+ag4
+(VRobert Middleton
+NNtRp1946
+ag4
+(VBilly West
+NNtRp1947
+ag4
+(VCarmen Ejogo
+NNtRp1948
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0683984
+tRp1949
+ag4
+(VVexcon
+NNtRp1950
+ag4
+(V1887-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp1951
+tRp1952
+ag4
+(VOnce Around the Circuit
+NNtRp1953
+ag4
+(VEmily Whitesell
+NNtRp1954
+ag4
+(VLyle Weldon
+NNtRp1955
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0510912
+tRp1956
+ag4
+(VSharon Sharalike
+NNtRp1957
+ag4
+(VPatricia Owens
+NNtRp1958
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0803030
+tRp1959
+ag4
+(VSusan Sisko
+NNtRp1960
+ag4
+(VLuciana Paluzzi
+NNtRp1961
+ag4
+(VThe Assassins
+NNtRp1962
+ag4
+(VMicro-Algae Man
+NNtRp1963
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0963340
+tRp1964
+ag4
+(VRandall Anderson
+NNtRp1965
+ag4
+(VEeney, Meeney, Miney... Magic!
+NNtRp1966
+ag4
+(VChapter 50
+NNtRp1967
+ag4
+(VChip Chinery
+NNtRp1968
+ag4
+(VIncident in Suva
+NNtRp1969
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1391261
+tRp1970
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0961635
+tRp1971
+ag4
+(Vwriter,director,script_department
+NNtRp1972
+ag4
+(VThe Magician
+NNtRp1973
+ag4
+(VHaunted Houses
+NNtRp1974
+ag4
+(VNick Gomez
+NNtRp1975
+ag4
+(VMonsters Ate My Homework
+NNtRp1976
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0611869
+tRp1977
+ag4
+(VJuarez Roberts
+NNtRp1978
+ag4
+(VChristopher Thornton
+NNtRp1979
+ag4
+(VKate Mara
+NNtRp1980
+ag4
+(VJan Sterling
+NNtRp1981
+ag4
+(VFuel Tank Cleaner
+NNtRp1982
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0155961
+tRp1983
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0175020
+tRp1984
+ag4
+(VMyles Connell
+NNtRp1985
+ag4
+(Vwriter,producer,soundtrack
+NNtRp1986
+ag4
+(VThelma Schnee
+NNtRp1987
+ag4
+(VSins of the Father
+NNtRp1988
+ag4
+(VFritz Muliar
+NNtRp1989
+ag4
+(Vassistant_director,director,production_manager
+NNtRp1990
+ag4
+(VDana Medrická
+NNtRp1991
+ag4
+(VThe Dream Merchant
+NNtRp1992
+ag4
+(VChapter 66
+NNtRp1993
+ag4
+(VRobert Douglas
+NNtRp1994
+ag4
+(VA Dog and Pony Show
+NNtRp1995
+ag4
+(VThe Smoking Jacket
+NNtRp1996
+ag4
+(VChapter 35
+NNtRp1997
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0789093
+tRp1998
+ag4
+(VLesley Sharp
+NNtRp1999
+ag4
+(V1902-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp2000
+tRp2001
+ag4
+(VWork Related
+NNtRp2002
+ag4
+(VA Model Top Model
+NNtRp2003
+ag4
+(VSteve Liebmann
+NNtRp2004
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm4218031
+tRp2005
+ag4
+(VSalt Miner
+NNtRp2006
+ag4
+(VMiguel Sapochnik
+NNtRp2007
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0141776
+tRp2008
+ag4
+(VKaddish
+NNtRp2009
+ag4
+(Vactress,music_department,producer
+NNtRp2010
+ag4
+(VSafari at Sea
+NNtRp2011
+ag4
+(VDead Men Don't Jump
+NNtRp2012
+ag4
+(Vproducer,writer,actor
+NNtRp2013
+ag4
+(VTales from the Cryptkeeper
+NNtRp2014
+ag4
+(VLove-Bheits
+NNtRp2015
+ag4
+(VAnne Bancroft
+NNtRp2016
+ag4
+(Vwriter,miscellaneous,producer
+NNtRp2017
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0100949
+tRp2018
+ag4
+(VAntoinette Bower
+NNtRp2019
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0325251
+tRp2020
+ag4
+(VLee Goldberg
+NNtRp2021
+ag4
+(VDeception
+NNtRp2022
+ag4
+(VThe Big Never
+NNtRp2023
+ag4
+(Vdirector,editor,miscellaneous
+NNtRp2024
+ag4
+(VShowdown at Cremation Creek: Part 1
+NNtRp2025
+ag4
+(V693
+NNtRp2026
+ag4
+(V1892-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp2027
+tRp2028
+ag4
+(VRobin Wright
+NNtRp2029
+ag4
+(VMichael Barry
+NNtRp2030
+ag4
+(VDirty Jobs
+NNtRp2031
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/tt0829706
+tRp2032
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm3151565
+tRp2033
+ag4
+(VOpen for Diving
+NNtRp2034
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0542535
+tRp2035
+ag4
+(VHugo Haas
+NNtRp2036
+ag4
+(VSean Whitesell
+NNtRp2037
+ag4
+(VPenguin Keeper
+NNtRp2038
+ag4
+(VThe Inheritance
+NNtRp2039
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1347708
+tRp2040
+ag4
+(VJakob Verbruggen
+NNtRp2041
+ag4
+(VFallen Arches
+NNtRp2042
+ag4
+(VRichard Levinson
+NNtRp2043
+ag4
+(VMichael Kelly
+NNtRp2044
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0088271
+tRp2045
+ag4
+(Vwriter,script_department
+NNtRp2046
+ag4
+(VI've Got a Secret
+NNtRp2047
+ag4
+(VSusie Essman
+NNtRp2048
+ag4
+(VKing of the City
+NNtRp2049
+ag4
+(VTian Jun Gu
+NNtRp2050
+ag4
+(VGerald Mayer
+NNtRp2051
+ag4
+(VReed Diamond
+NNtRp2052
+ag4
+(VNico Minardos
+NNtRp2053
+ag4
+(VThe Wedding
+NNtRp2054
+ag4
+(VJoanne Linville
+NNtRp2055
+ag4
+(Vactor,producer,camera_department
+NNtRp2056
+ag4
+(VChapter 2
+NNtRp2057
+ag4
+(VBefore I Die
+NNtRp2058
+ag4
+(VThe Divorce
+NNtRp2059
+ag4
+(VCloset Cases
+NNtRp2060
+ag4
+(VPrison Riot
+NNtRp2061
+ag4
+(VGilbert Kay
+NNtRp2062
+ag4
+(VJessie Royce Landis
+NNtRp2063
+ag4
+(Vactor,director
+NNtRp2064
+ag4
+(Vproducer,production_manager,camera_department
+NNtRp2065
+ag4
+(V1883-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp2066
+tRp2067
+ag4
+(V¡Viva los muertos!
+NNtRp2068
+ag4
+(VJeff Schaffer
+NNtRp2069
+ag4
+(VJuliet Prowse
+NNtRp2070
+ag4
+(VSurvival
+NNtRp2071
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0393882
+tRp2072
+ag4
+(VWho Is Sylvia?
+NNtRp2073
+ag4
+(Vactor,producer,miscellaneous
+NNtRp2074
+ag4
+(VMelissa Leo
+NNtRp2075
+ag4
+(Vactor,producer,director
+NNtRp2076
+ag4
+(VA Party for Tarzan
+NNtRp2077
+ag4
+(VThe Group
+NNtRp2078
+ag4
+(Vdirector,animation_department,art_department
+NNtRp2079
+ag4
+(VThe Raft
+NNtRp2080
+ag4
+(VChapter 41
+NNtRp2081
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0310846
+tRp2082
+ag4
+(Vactor,assistant_director
+NNtRp2083
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0621008
+tRp2084
+ag4
+(VMission to Manila
+NNtRp2085
+ag4
+(VReginald Owen
+NNtRp2086
+ag4
+(V1906-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp2087
+tRp2088
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0256658
+tRp2089
+ag4
+(VJeremy Podeswa
+NNtRp2090
+ag4
+(VA Nero Wolfe Mystery
+NNtRp2091
+ag4
+(VAlpaca Shearer
+NNtRp2092
+ag4
+(VChapter 71
+NNtRp2093
+ag4
+(VBoris Sagal
+NNtRp2094
+ag4
+(VEstelle Winwood
+NNtRp2095
+ag4
+(VHate Floats
+NNtRp2096
+ag4
+(VChuck, and Melvin, and the Beanstalker
+NNtRp2097
+ag4
+(VChapter 24
+NNtRp2098
+ag4
+(VThe Trial of the Monarch
+NNtRp2099
+ag4
+(VPeter Barry
+NNtRp2100
+ag4
+(VWhite Lies
+NNtRp2101
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000681
+tRp2102
+ag4
+(VVince Vaughn
+NNtRp2103
+ag4
+(VTrue Detective
+NNtRp2104
+ag4
+(VThe Black Pearl
+NNtRp2105
+ag4
+(VGene Mack
+NNtRp2106
+ag4
+(VAnd the Rockets' Dead Glare
+NNtRp2107
+ag4
+(VThe Reunion
+NNtRp2108
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001775
+tRp2109
+ag4
+(VSuper Dirty
+NNtRp2110
+ag4
+(VMarcia Warren
+NNtRp2111
+ag4
+(VVáclav Voska
+NNtRp2112
+ag4
+(VChapter 53
+NNtRp2113
+ag4
+(VChapter 62
+NNtRp2114
+ag4
+(Vproducer,writer
+NNtRp2115
+ag4
+(VBop Gun
+NNtRp2116
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0001737
+tRp2117
+ag4
+(VPaul Richards
+NNtRp2118
+ag4
+(VGuy Stockwell
+NNtRp2119
+ag4
+(VDavid Janssen
+NNtRp2120
+ag4
+(VPatricia Breslin
+NNtRp2121
+ag4
+(Vwriter,producer,camera_department
+NNtRp2122
+ag4
+(Vdirector,assistant_director,writer
+NNtRp2123
+ag4
+(VGrowing Pains
+NNtRp2124
+ag4
+(VFlamin' Lady
+NNtRp2125
+ag4
+(VOnce There Was a Princess
+NNtRp2126
+ag4
+(VNorman Foster
+NNtRp2127
+ag4
+(VAnne Francis
+NNtRp2128
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0312695
+tRp2129
+ag4
+(VFrançois-Eric Gendron
+NNtRp2130
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0905564
+tRp2131
+ag4
+(VChapter 67
+NNtRp2132
+ag4
+(VDie Like a Dog
+NNtRp2133
+ag4
+(VJohn Tucker Battle
+NNtRp2134
+ag4
+(VThe Old and the Dead
+NNtRp2135
+ag4
+(VKari Matchett
+NNtRp2136
+ag4
+(VKate Barnow
+NNtRp2137
+ag4
+(VHomicide: Life on the Street
+NNtRp2138
+ag4
+(VFrancisco Rabal
+NNtRp2139
+ag4
+(VBarbara Eden
+NNtRp2140
+ag4
+(VIt Happening One Night
+NNtRp2141
+ag4
+(VMosquito Control Officer
+NNtRp2142
+ag4
+(Vdirector,producer,casting_department
+NNtRp2143
+ag4
+(VCarl Franklin
+NNtRp2144
+ag4
+(Vdirector,writer,editor
+NNtRp2145
+ag4
+(VGardner McKay
+NNtRp2146
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0000399
+tRp2147
+ag4
+(V100th Dirty Job Special
+NNtRp2148
+ag4
+(VOstrich Farmer
+NNtRp2149
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0014493
+tRp2150
+ag4
+(VGeoduck Farmer
+NNtRp2151
+ag4
+(VAgnieszka Holland
+NNtRp2152
+ag4
+(VCradle to Grave
+NNtRp2153
+ag4
+(VDavid Hemblen
+NNtRp2154
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0465932
+tRp2155
+ag4
+(V1913-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp2156
+tRp2157
+ag4
+(VDavid Opatoshu
+NNtRp2158
+ag4
+(VShelley Berman
+NNtRp2159
+ag4
+(VFay Bainter
+NNtRp2160
+ag4
+(Vmiscellaneous,art_department
+NNtRp2161
+ag4
+(VSteven Rattazzi
+NNtRp2162
+ag4
+(VJohn Ericson
+NNtRp2163
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm1502425
+tRp2164
+ag4
+(VSarah Niles
+NNtRp2165
+ag4
+(Vactor,music_department,soundtrack
+NNtRp2166
+ag4
+(VMister Softee
+NNtRp2167
+ag4
+(VChapter 9
+NNtRp2168
+ag4
+(VJean Holloway
+NNtRp2169
+ag4
+(V1901-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp2170
+tRp2171
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0276317
+tRp2172
+ag4
+(VLouis Vittes
+NNtRp2173
+ag4
+(VNina Wadia
+NNtRp2174
+ag4
+(VHappy Ordinary Day
+NNtRp2175
+ag4
+(VWoody Harrelson
+NNtRp2176
+ag4
+(Vdirector,writer,editorial_department
+NNtRp2177
+ag4
+(VR.D. Reid
+NNtRp2178
+ag4
+(VFrank Ray
+NNtRp2179
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0700059
+tRp2180
+ag4
+(VBonnie Mark
+NNtRp2181
+ag4
+(VChimney Sweeper
+NNtRp2182
+ag4
+(Vdirector,producer,sound_department
+NNtRp2183
+ag4
+(VYui Horie
+NNtRp2184
+ag4
+(VShaggy Dog, City Goat
+NNtRp2185
+ag4
+(VRicardo Montalban
+NNtRp2186
+ag4
+(Vactor,camera_department
+NNtRp2187
+ag4
+(VRichard H. Landau
+NNtRp2188
+ag4
+(VBeautiful People
+NNtRp2189
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0220438
+tRp2190
+ag4
+(VMarc Donato
+NNtRp2191
+ag4
+(VCraig Anton
+NNtRp2192
+ag4
+(VBlood Wedding
+NNtRp2193
+ag4
+(VGhost Ship
+NNtRp2194
+ag4
+(VAll Booked Up
+NNtRp2195
+ag4
+(VBio-Diesel Man
+NNtRp2196
+ag4
+(VPeter Whitney
+NNtRp2197
+ag4
+(VHurricane Audrey
+NNtRp2198
+ag4
+(VDoug Glover
+NNtRp2199
+ag4
+(VMeet the Blacks
+NNtRp2200
+ag4
+(VDon Medford
+NNtRp2201
+ag4
+(VVictor. Echo. November.
+NNtRp2202
+ag4
+(VNoah Beery Jr.
+NNtRp2203
+ag4
+(VAnna Kashfi
+NNtRp2204
+ag4
+(VJohn McNaughton
+NNtRp2205
+ag4
+(VAction,Adventure,Drama
+NNtRp2206
+ag4
+(VRunning with the Bulls
+NNtRp2207
+ag4
+(VDouble Blind
+NNtRp2208
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0182873
+tRp2209
+ag4
+(VAngel of Death
+NNtRp2210
+ag4
+(VBaby, It's You
+NNtRp2211
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0759022
+tRp2212
+ag4
+(VJennifer Salt
+NNtRp2213
+ag4
+(VDavid Mandel
+NNtRp2214
+ag4
+(VThree Men and Adena
+NNtRp2215
+ag4
+(VThis Wraps It Up
+NNtRp2216
+ag4
+(VBackyard Beach
+NNtRp2217
+ag4
+(Vproducer,actress,writer
+NNtRp2218
+ag4
+(VHot Tar Roofer
+NNtRp2219
+ag4
+(VLaura Shepherd
+NNtRp2220
+ag4
+(VSmoke Gets in Your Eyes
+NNtRp2221
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm2920012
+tRp2222
+ag4
+(VJeff Garlin
+NNtRp2223
+ag4
+(VYvonne De Carlo
+NNtRp2224
+ag4
+(VTim McCann
+NNtRp2225
+ag4
+(VJames Foley
+NNtRp2226
+ag4
+(VWhit Stillman
+NNtRp2227
+ag4
+(VElva Mai Hoover
+NNtRp2228
+ag4
+(VEnd Game
+NNtRp2229
+ag4
+(VThe 5 Wood
+NNtRp2230
+ag4
+(VMatt Reeves
+NNtRp2231
+ag4
+(Vwriter,miscellaneous,cinematographer
+NNtRp2232
+ag4
+(VPoliceman's Holiday
+NNtRp2233
+ag4
+(VMahershala Ali
+NNtRp2234
+ag4
+(VBrad Abrell
+NNtRp2235
+ag4
+(VHate Crimes
+NNtRp2236
+ag4
+(VJason Alexander
+NNtRp2237
+ag4
+(VGame Over
+NNtRp2238
+ag4
+(VWayne Ewing
+NNtRp2239
+ag4
+(VWu's on First?
+NNtRp2240
+ag4
+(VNothing Personal
+NNtRp2241
+ag4
+(VNobu McCarthy
+NNtRp2242
+ag4
+(VChapter 36
+NNtRp2243
+ag4
+(VThe Pickle Gambit
+NNtRp2244
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0014217
+tRp2245
+ag4
+(VA Model Citizen
+NNtRp2246
+ag4
+(VCave Man
+NNtRp2247
+ag4
+(VDerek Cecil
+NNtRp2248
+ag4
+(VJudith
+NNtRp2249
+ag4
+(VRobert Sampson
+NNtRp2250
+ag4
+(VThe Surrogate
+NNtRp2251
+ag4
+(VJames Hong
+NNtRp2252
+ag4
+(VKurt Kasznar
+NNtRp2253
+ag4
+(VA Whale of a Tale
+NNtRp2254
+ag4
+(VBen Edlund
+NNtRp2255
+ag4
+(VChapter 47
+NNtRp2256
+ag4
+(VCarey Wilber
+NNtRp2257
+ag4
+(VA Many Splendored Thing
+NNtRp2258
+ag4
+(VElizabeth Hanna
+NNtRp2259
+ag4
+(VAndrew Sabiston
+NNtRp2260
+ag4
+(VRick Cleveland
+NNtRp2261
+ag4
+(VGabriela Vránová
+NNtRp2262
+ag4
+(VMatt Witten
+NNtRp2263
+ag4
+(VThe Death-Divers
+NNtRp2264
+ag4
+(VThe Hat
+NNtRp2265
+ag4
+(V1896-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp2266
+tRp2267
+ag4
+(VPhillip Pine
+NNtRp2268
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm2385621
+tRp2269
+ag4
+(VDavid Steinberg
+NNtRp2270
+ag4
+(VAlison Maclean
+NNtRp2271
+ag4
+(V37
+NNtRp2272
+ag4
+(VKelly Reilly
+NNtRp2273
+ag4
+(V26
+NNtRp2274
+ag4
+(VMichel Gill
+NNtRp2275
+ag4
+(VThe Pit of Silence
+NNtRp2276
+ag4
+(VPaul Dooley
+NNtRp2277
+ag4
+(VThe Heart of a Saturday Night
+NNtRp2278
+ag4
+(VChapter 14
+NNtRp2279
+ag4
+(VMargaret O'Brien
+NNtRp2280
+ag4
+(VStrangers and Other Partners
+NNtRp2281
+ag4
+(VMaury Chaykin
+NNtRp2282
+ag4
+(VHenry Bromell
+NNtRp2283
+ag4
+(VOne Way Ticket
+NNtRp2284
+ag4
+(VSarah Treem
+NNtRp2285
+ag4
+(VDiana Lynn
+NNtRp2286
+ag4
+(VAnimal Pals
+NNtRp2287
+ag4
+(V1952-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp2288
+tRp2289
+ag4
+(VTara Strong
+NNtRp2290
+ag4
+(VChapter 33
+NNtRp2291
+ag4
+(VKyle Secor
+NNtRp2292
+ag4
+(Vdirector,producer,editorial_department
+NNtRp2293
+ag4
+(VBug Breeder
+NNtRp2294
+ag4
+(VThe Bowtie
+NNtRp2295
+ag4
+(VFernando Fernán Gómez
+NNtRp2296
+ag4
+(VTrish Soodik
+NNtRp2297
+ag4
+(Vwriter,producer,actress
+NNtRp2298
+ag4
+(VFrances Callier
+NNtRp2299
+ag4
+(VKiyoshi Kobayashi
+NNtRp2300
+ag4
+(VBill Kennedy
+NNtRp2301
+ag4
+(VUnpopular Mechanics
+NNtRp2302
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0765256
+tRp2303
+ag4
+(VDavid Milch
+NNtRp2304
+ag4
+(VThe Hour and the Day
+NNtRp2305
+ag4
+(VMiyuki Sawashiro
+NNtRp2306
+ag4
+(VWild Mangoes
+NNtRp2307
+ag4
+(VSewer Inspector
+NNtRp2308
+ag4
+(VPalestinian Chicken
+NNtRp2309
+ag4
+(VJodie Foster
+NNtRp2310
+ag4
+(VJohn Stocker
+NNtRp2311
+ag4
+(VScoot McNairy
+NNtRp2312
+ag4
+(VScotty Morrow
+NNtRp2313
+ag4
+(VEscape to the House of Mummies Part II
+NNtRp2314
+ag4
+(VAction,Animation,Comedy
+NNtRp2315
+ag4
+(VParade Float Dismantler
+NNtRp2316
+ag4
+(VChapter 15
+NNtRp2317
+ag4
+(VScott & Bailey
+NNtRp2318
+ag4
+(VStanford Whitmore
+NNtRp2319
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm2885728
+tRp2320
+ag4
+(VSnake Researcher
+NNtRp2321
+ag4
+(VChristopher Kyle
+NNtRp2322
+ag4
+(V1898-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp2323
+tRp2324
+ag4
+(Vassistant_director,actor,director
+NNtRp2325
+ag4
+(V1987-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp2326
+tRp2327
+ag4
+(VDocumentary,Talk-Show
+NNtRp2328
+ag4
+(VJacques Tourneur
+NNtRp2329
+ag4
+(VGeorge Buza
+NNtRp2330
+ag4
+(VTed and Mary
+NNtRp2331
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0171441
+tRp2332
+ag4
+(VPhilip Ahn
+NNtRp2333
+ag4
+(VMatthew McConaughey
+NNtRp2334
+ag4
+(VYuka Iguchi
+NNtRp2335
+ag4
+(VAndrew Davies
+NNtRp2336
+ag4
+(VA Penny a Day
+NNtRp2337
+ag4
+(VJayne Eastwood
+NNtRp2338
+ag4
+(VChapter 11
+NNtRp2339
+ag4
+(VMichael Morris
+NNtRp2340
+ag4
+(VJames Barton
+NNtRp2341
+ag4
+(VMarcel Hillaire
+NNtRp2342
+ag4
+(VLola Albright
+NNtRp2343
+ag4
+(VHostile Makeover
+NNtRp2344
+ag4
+(VPast Tense
+NNtRp2345
+ag4
+(VFrances de la Tour
+NNtRp2346
+ag4
+(VMartin Scorsese
+NNtRp2347
+ag4
+(VAdventures in Paradise
+NNtRp2348
+ag4
+(V1889-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp2349
+tRp2350
+ag4
+(VPeggy Ann Garner
+NNtRp2351
+ag4
+(VWayne Morris
+NNtRp2352
+ag4
+(VMario Pardo
+NNtRp2353
+ag4
+(VDavid Simon
+NNtRp2354
+ag4
+(VBud Townsend
+NNtRp2355
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0086587
+tRp2356
+ag4
+(VJeanne Blake
+NNtRp2357
+ag4
+(VClaude Akins
+NNtRp2358
+ag4
+(VThe Feather Cloak
+NNtRp2359
+ag4
+(VChapter 37
+NNtRp2360
+ag4
+(Vdirector,producer,production_manager
+NNtRp2361
+ag4
+(VFay Spain
+NNtRp2362
+ag4
+(VJerome Cowan
+NNtRp2363
+ag4
+(VJustus Addiss
+NNtRp2364
+ag4
+(Vdirector,art_director,costume_designer
+NNtRp2365
+ag4
+(VThe Gas Man
+NNtRp2366
+ag4
+(Vproducer,miscellaneous,actor
+NNtRp2367
+ag4
+(VRobert Bockstael
+NNtRp2368
+ag4
+(VRob Paulsen
+NNtRp2369
+ag4
+(VJo Morrow
+NNtRp2370
+ag4
+(Vactress,director,soundtrack
+NNtRp2371
+ag4
+(VMaybe Tomorrow
+NNtRp2372
+ag4
+(VNoel Behn
+NNtRp2373
+ag4
+(VKeith Truesdell
+NNtRp2374
+ag4
+(VMaybe No Go
+NNtRp2375
+ag4
+(VThe Next Witness
+NNtRp2376
+ag4
+(V93
+NNtRp2377
+ag4
+(VLee Bonner
+NNtRp2378
+ag4
+(VThe Forbidden Sea
+NNtRp2379
+ag4
+(VLisa Gaye
+NNtRp2380
+ag4
+(Vdirector,miscellaneous,producer
+NNtRp2381
+ag4
+(VMary Jo Randle
+NNtRp2382
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm0537784
+tRp2383
+ag4
+(VSondi Sodsai
+NNtRp2384
+ag4
+(V1899-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp2385
+tRp2386
+ag4
+(VMeyer Dolinsky
+NNtRp2387
+ag4
+(Vdirector,writer,art_director
+NNtRp2388
+ag4
+(VPeril at Pitcairn
+NNtRp2389
+ag4
+(VMartin Short
+NNtRp2390
+ag4
+(VNightmare on Napuka
+NNtRp2391
+ag4
+(VToo Cool for School
+NNtRp2392
+ag4
+(VJay Tobias
+NNtRp2393
+ag4
+(VNatalie Trundy
+NNtRp2394
+ag4
+(VVow of Silence
+NNtRp2395
+ag4
+(VGeorge Tobias
+NNtRp2396
+ag4
+(VChapter 40
+NNtRp2397
+ag4
+(VGlynis Johns
+NNtRp2398
+ag4
+(VDeVallon Scott
+NNtRp2399
+ag4
+(VCareers in Science
+NNtRp2400
+ag4
+(VJohn McGiver
+NNtRp2401
+ag4
+(Vactor,miscellaneous,assistant_director
+NNtRp2402
+ag4
+(VViveca Lindfors
+NNtRp2403
+ag4
+(VFelix E. Feist
+NNtRp2404
+ag4
+(VBarbara Steele
+NNtRp2405
+ag4
+(Vsoundtrack,actress,composer
+NNtRp2406
+ag4
+(Vcamera_department,cinematographer,director
+NNtRp2407
+ag4
+(VLeslie Libman
+NNtRp2408
+ag4
+(VJames Urbaniak
+NNtRp2409
+ag4
+(VA. Sanford Wolfe
+NNtRp2410
+ag4
+(VGoodness Gracious Me
+NNtRp2411
+ag4
+(VNancy Gates
+NNtRp2412
+ag4
+(Vactor,special_effects,art_director
+NNtRp2413
+ag4
+(VJohn McGreevey
+NNtRp2414
+ag4
+(VFunkhouser's Crazy Sister
+NNtRp2415
+ag4
+(VRobert Mintz
+NNtRp2416
+ag4
+(VOlivia Colman
+NNtRp2417
+ag4
+(VTed Demme
+NNtRp2418
+ag4
+(VChapter 3
+NNtRp2419
+ag4
+(VPaul Hartman
+NNtRp2420
+ag4
+(VLarry Blyden
+NNtRp2421
+ag4
+(VGeraldine Brooks
+NNtRp2422
+ag4
+(VMary Harron
+NNtRp2423
+ag4
+(Vactress,soundtrack,miscellaneous
+NNtRp2424
+ag4
+(VJeremy Saulnier
+NNtRp2425
+ag4
+(VRita Wilson
+NNtRp2426
+ag4
+(VCal Bolder
+NNtRp2427
+ag4
+(VThe Thong
+NNtRp2428
+ag4
+(VThe Anonymous Donor
+NNtRp2429
+ag4
+(VWilliam Colgate
+NNtRp2430
+ag4
+(VPippa Scott
+NNtRp2431
+ag4
+(VPhilip Voss
+NNtRp2432
+ag4
+(VEd Naha
+NNtRp2433
+ag2
+(Vhttps://www.scads.de/movieBenchmark/resource/IMDB/nm2044225
+tRp2434
+ag4
+(VGeorge Bloomfield
+NNtRp2435
+ag4
+(VDebbie Sarjeant
+NNtRp2436
+ag4
+(VMercy
+NNtRp2437
+ag4
+(VTeresa Wright
+NNtRp2438
+ag4
+(VJames Neilson
+NNtRp2439
+ag4
+(VJace Alexander
+NNtRp2440
+ag4
+(VRussell Means
+NNtRp2441
+ag4
+(VAbduction
+NNtRp2442
+ag4
+(VMichael Jaffe
+NNtRp2443
+ag4
+(Vdirector,cinematographer,camera_department
+NNtRp2444
+ag4
+(VIna Balin
+NNtRp2445
+ag4
+(VJohn Peyser
+NNtRp2446
+ag4
+(VTabrett Bethell
+NNtRp2447
+ag4
+(VLewis Needs a Kidney
+NNtRp2448
+ag4
+(VPaul Stanley
+NNtRp2449
+ag4
+(VJulie Martin
+NNtRp2450
+ag4
+(VMid-Life Chrysalis
+NNtRp2451
+ag4
+(VJames Thornton
+NNtRp2452
+ag4
+(VAidan McArdle
+NNtRp2453
+ag4
+(VLes Carter
+NNtRp2454
+ag4
+(V27
+NNtRp2455
+ag4
+(VKevin Arkadie
+NNtRp2456
+ag4
+(VKevin Hooks
+NNtRp2457
+ag4
+(VMurder Is Corny
+NNtRp2458
+ag4
+(VDamon D'Oliveira
+NNtRp2459
+ag4
+(VChapter 42
+NNtRp2460
+ag4
+(VPleasant Screams
+NNtRp2461
+ag4
+(VStephen Ouimette
+NNtRp2462
+ag4
+(VMichael Fields
+NNtRp2463
+ag4
+(VAdam San
+NNtRp2464
+ag4
+(VCampbell Scott
+NNtRp2465
+ag4
+(VFritz Feld
+NNtRp2466
+ag4
+(VRiku Rantala
+NNtRp2467
+ag4
+(VChapter 5
+NNtRp2468
+ag4
+(VThe Freak Book
+NNtRp2469
+ag4
+(VRobert Pugh
+NNtRp2470
+ag4
+(VJohn Dahl
+NNtRp2471
+ag4
+(Vactor,miscellaneous,producer
+NNtRp2472
+ag4
+(Vactress,producer,production_manager
+NNtRp2473
+ag4
+(VMichael Lehmann
+NNtRp2474
+ag4
+(VThe Great War and Modern Memory
+NNtRp2475
+ag4
+(VKeith Knight
+NNtRp2476
+ag4
+(VThe Accidental Text on Purpose
+NNtRp2477
+ag4
+(VTameka Empson
+NNtRp2478
+ag4
+(VDoreen Lang
+NNtRp2479
+ag4
+(VDaniel DeSanto
+NNtRp2480
+ag4
+(VJames B. Clark
+NNtRp2481
+ag4
+(VEd Bianchi
+NNtRp2482
+ag4
+(Vwriter,actor,miscellaneous
+NNtRp2483
+ag4
+(VSuzanne Pleshette
+NNtRp2484
+ag4
+(Vactress,soundtrack,writer
+NNtRp2485
+ag4
+(Vproducer,director
+NNtRp2486
+ag4
+(VRichard Alan Simmons
+NNtRp2487
+ag4
+(VGloria Vanderbilt
+NNtRp2488
+ag4
+(VCraig Parker
+NNtRp2489
+ag4
+(VIrwin Winehouse
+NNtRp2490
+ag4
+(Vdirector,art_department,assistant_director
+NNtRp2491
+ag4
+(VDaniel Mainwaring
+NNtRp2492
+ag4
+(VYaphet Kotto
+NNtRp2493
+ag4
+(VEva Gabor
+NNtRp2494
+ag4
+(VAway from It All
+NNtRp2495
+ag4
+(VBarbara Kopple
+NNtRp2496
+ag4
+(VLinda McGibney
+NNtRp2497
+ag4
+(VMichael O'Shea
+NNtRp2498
+ag4
+(VWeaver Levy
+NNtRp2499
+ag4
+(Vdirector,editor,editorial_department
+NNtRp2500
+ag4
+(VJason Burke
+NNtRp2501
+ag4
+(VTed Danson
+NNtRp2502
+ag4
+(VThe End
+NNtRp2503
+ag4
+(VBetsy von Furstenberg
+NNtRp2504
+ag4
+(VPeter Markle
+NNtRp2505
+ag4
+(VRonald Weyman
+NNtRp2506
+ag4
+(VGeorge Macready
+NNtRp2507
+ag4
+(VJohn David Coles
+NNtRp2508
+ag4
+(VSam Ross
+NNtRp2509
+ag4
+(VChapter 55
+NNtRp2510
+ag4
+(VNic Pizzolatto
+NNtRp2511
+ag4
+(Vactress,casting_department
+NNtRp2512
+ag4
+(VChiwa Saitô
+NNtRp2513
+ag4
+(VCharles de Bernier
+NNtRp2514
+ag4
+(VKath Soucie
+NNtRp2515
+ag4
+(VMarilyn Maxwell
+NNtRp2516
+ag4
+(VSanjeev Bhaskar
+NNtRp2517
+ag4
+(VBernard Girard
+NNtRp2518
+ag4
+(VPoison à la Carte
+NNtRp2519
+ag4
+(VBill Smitrovich
+NNtRp2520
+ag4
+(VDavid Rupel
+NNtRp2521
+ag4
+(V1891-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp2522
+tRp2523
+ag4
+(VThe Benadryl Brownie
+NNtRp2524
+ag4
+(VAvian Vomitologist
+NNtRp2525
+ag4
+(VPlease Believe Me
+NNtRp2526
+ag4
+(VJoanna Barnes
+NNtRp2527
+ag4
+(VRichard Kind
+NNtRp2528
+ag4
+(VJulie London
+NNtRp2529
+ag4
+(VLibby Hinson
+NNtRp2530
+ag4
+(VPaul Boocock
+NNtRp2531
+ag4
+(Vactress,soundtrack,music_department
+NNtRp2532
+ag4
+(Vvisual_effects,actor,writer
+NNtRp2533
+ag4
+(VDiener
+NNtRp2534
+ag4
+(VKôichi Yamadera
+NNtRp2535
+ag4
+(VAlan Hale Jr.
+NNtRp2536
+ag4
+(VJohn Van Dreelen
+NNtRp2537
+ag4
+(Vcinematographer,camera_department,director
+NNtRp2538
+ag4
+(VDaniel Attias
+NNtRp2539
+ag4
+(VChapter 43
+NNtRp2540
+ag4
+(VJoel Schumacher
+NNtRp2541
+ag4
+(VChana Eden
+NNtRp2542
+ag4
+(VDaniel Sackheim
+NNtRp2543
+ag4
+(VMurray Matheson
+NNtRp2544
+ag4
+(VSteam Ship Cleaner
+NNtRp2545
+ag4
+(VTaylor Kitsch
+NNtRp2546
+ag4
+(VDaughter of Illusion
+NNtRp2547
+ag4
+(VTurkey Farmer
+NNtRp2548
+ag4
+(VSean McClory
+NNtRp2549
+ag4
+(VDick York
+NNtRp2550
+ag4
+(VLawrence Tierney
+NNtRp2551
+ag4
+(VJohn Abbott
+NNtRp2552
+ag4
+(VStrangled, Not Stirred
+NNtRp2553
+ag4
+(VSeeing Things
+NNtRp2554
+ag4
+(VMaggie Baird
+NNtRp2555
+ag4
+(VRoy Del Ruth
+NNtRp2556
+ag4
+(VJames Tolkan
+NNtRp2557
+ag4
+(VDan Duryea
+NNtRp2558
+ag4
+(VNever Wait for Seconds!
+NNtRp2559
+ag4
+(VAlan Napier
+NNtRp2560
+ag4
+(VAustin Peterson
+NNtRp2561
+ag4
+(VLizabeth Scott
+NNtRp2562
+ag4
+(VRay Walston
+NNtRp2563
+ag4
+(VJohn Mankiewicz
+NNtRp2564
+ag4
+(VSimon Oakland
+NNtRp2565
+ag4
+(VThe Bare Midriff
+NNtRp2566
+ag4
+(VCharles Aidman
+NNtRp2567
+ag4
+(VHeartbeat
+NNtRp2568
+ag4
+(VRachel McAdams
+NNtRp2569
+ag4
+(VLarry Charles
+NNtRp2570
+ag4
+(V1941-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp2571
+tRp2572
+ag4
+(VSophie Ash
+NNtRp2573
+ag4
+(VPaulette Goddard
+NNtRp2574
+ag4
+(VArnold Belgard
+NNtRp2575
+ag4
+(VHans Conried
+NNtRp2576
+ag4
+(VMitchell Leisen
+NNtRp2577
+ag4
+(Vwriter,camera_department
+NNtRp2578
+ag4
+(VJohn R. Pepper
+NNtRp2579
+ag4
+(VFintan Meyler
+NNtRp2580
+ag4
+(VRon Goldstein
+NNtRp2581
+ag4
+(VPatricia Clarkson
+NNtRp2582
+ag4
+(VMadlyn Rhue
+NNtRp2583
+ag4
+(V64
+NNtRp2584
+ag4
+(VJamieson Boulanger
+NNtRp2585
+ag4
+(Vproducer,actor,soundtrack
+NNtRp2586
+ag4
+(VRhys Williams
+NNtRp2587
+ag4
+(VAndy Ackerman
+NNtRp2588
+ag4
+(Vactor,stunts
+NNtRp2589
+ag4
+(VLee Blessing
+NNtRp2590
+ag4
+(Vactress,director,writer
+NNtRp2591
+ag4
+(VMichael Sinterniklaas
+NNtRp2592
+ag4
+(VRobin Laing
+NNtRp2593
+ag4
+(Vactor,miscellaneous,soundtrack
+NNtRp2594
+ag4
+(VBruce Spence
+NNtRp2595
+ag4
+(VAnya Epstein
+NNtRp2596
+ag4
+(VWilliam Froug
+NNtRp2597
+ag4
+(VBeachhead
+NNtRp2598
+ag4
+(VReginald Denny
+NNtRp2599
+ag4
+(VThe Pretender
+NNtRp2600
+ag4
+(V88
+NNtRp2601
+ag4
+(VMichael Whaley
+NNtRp2602
+ag4
+(VPhilip B. Epstein
+NNtRp2603
+ag4
+(VEdward J. Lakso
+NNtRp2604
+ag4
+(VStephen Dorff
+NNtRp2605
+ag4
+(VRichard Binsley
+NNtRp2606
+ag4
+(VArctic
+NNtRp2607
+ag4
+(VRaymond Massey
+NNtRp2608
+ag4
+(VAmos Crawley
+NNtRp2609
+ag4
+(VMushroom Farmer
+NNtRp2610
+ag4
+(VMaxine Stuart
+NNtRp2611
+ag4
+(VJustin Lin
+NNtRp2612
+ag4
+(VEri Kitamura
+NNtRp2613
+ag4
+(V1912-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp2614
+tRp2615
+ag4
+(Vcinematographer,director,editor
+NNtRp2616
+ag4
+(VJorge Garcia
+NNtRp2617
+ag4
+(V74
+NNtRp2618
+ag4
+(VDavid Fincher
+NNtRp2619
+ag4
+(VTucker Gates
+NNtRp2620
+ag4
+(VDarryl Wharton
+NNtRp2621
+ag4
+(VMartin Landau
+NNtRp2622
+ag4
+(VPilar Seurat
+NNtRp2623
+ag4
+(VJohn L'Ecuyer
+NNtRp2624
+ag4
+(VJohn Simm
+NNtRp2625
+ag4
+(VBuddy Ebsen
+NNtRp2626
+ag4
+(V38
+NNtRp2627
+ag4
+(VRogers Turrentine
+NNtRp2628
+ag4
+(Vdirector,actor
+NNtRp2629
+ag4
+(Vwriter,sound_department
+NNtRp2630
+ag4
+(VRead Morgan
+NNtRp2631
+ag4
+(VSteve Buscemi
+NNtRp2632
+ag4
+(VMel Brooks
+NNtRp2633
+ag4
+(VCarrie Aizley
+NNtRp2634
+ag4
+(VJay Simms
+NNtRp2635
+ag4
+(VDonn Mullally
+NNtRp2636
+ag4
+(VGwen Arner
+NNtRp2637
+ag4
+(VAlik Sakharov
+NNtRp2638
+ag4
+(VEdward Asner
+NNtRp2639
+ag4
+(VDeborah Goodwin
+NNtRp2640
+ag4
+(VJerry Seinfeld
+NNtRp2641
+ag4
+(VCharles Napier
+NNtRp2642
+ag4
+(VRose Abdoo
+NNtRp2643
+ag4
+(V600
+NNtRp2644
+ag4
+(VManny Coto
+NNtRp2645
+ag4
+(V1955-01-01
+Ng2
+(Vhttp://www.w3.org/2001/XMLSchema#date
+tRp2646
+tRp2647
+ag4
+(VUli Edel
+NNtRp2648
+ag4
+(VKan'ichi Kurita
+NNtRp2649
+ag4
+(VClark Johnson
+NNtRp2650
+ag4
+(VJay Novello
+NNtRp2651
+ag4
+(VTimothy Hutton
+NNtRp2652
+ag4
+(VJoan Blondell
+NNtRp2653
+ag4
+(VBethel Leslie
+NNtRp2654
+ag4
+(VRichard Belzer
+NNtRp2655
+ag4
+(VColin Fox
+NNtRp2656
+ag4
+(VMark Stein
+NNtRp2657
+ag4
+(VCharles R. Rondeau
+NNtRp2658
+ag4
+(VHerbert Marshall
+NNtRp2659
+ag4
+(VMichael S. Chernuchin
+NNtRp2660
+ag4
+(VMeera Syal
+NNtRp2661
+ag4
+(VLarry Pennell
+NNtRp2662
+ag4
+(VJohn Kneubuhl
+NNtRp2663
+ag4
+(VRoxann Dawson
+NNtRp2664
+a.
