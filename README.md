@@ -64,6 +64,9 @@ python trade_offs.py
 
 ### Statistics Instructions
 ```bash
+please download descriptions_pickles.zip from https://www.dropbox.com/sh/7r2y1x8wx9y921e/AAAh3DabBguCzxk8OlZnL-Mza?dl=0
+uzip descriptions_pickles.zip
+copy to ./statistics/
 cd statistics
 conda env create --file install/statistics.yml --name statistics_env
 conda activate statistics_env
