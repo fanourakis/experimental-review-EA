@@ -1,5 +1,10 @@
 # Knowledge Graph Embedding Methods for Entity Alignment: An Experimental Review
 
+## Dataset License
+
+Due to licensing we are not allowed to distribute the bbc-db, imdb-tmdb, tmdb-tvdb, imdb-tvdb, restaurants.
+To run the experiments, please download [bbc-db](https://www.csd.uoc.gr/~vefthym/minoanER/datasets.html), [imdb, tmdb, tvdb](https://github.com/ScaDS/MovieGraphBenchmark) and [restaurants](http://oaei.ontologymatching.org/2010/im/) datasets.
+
 ## Getting Started
 
 You should :
@@ -36,7 +41,7 @@ python main_from_args.py "predefined_arguments" "dataset_name" "split"
 ```
 For example, for MTransE on tmdb-tvdb for the first split, please execute the following:
 ```bash
-python main_from_args.py ./args/mtranse_args_15K.json tmdb-tvdb 721_5fold/1/
+python main_from_args.py ./args/mtranse_args_15K.json D_W_15K_V1 721_5fold/1/
 ```
 
 ### Analysis Instructions

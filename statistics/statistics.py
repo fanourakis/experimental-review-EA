@@ -398,7 +398,7 @@ def hyper_relations(path, dict, kg):
     return len(hyper_relations_set), len(relations)
 
 
-name = "imdb-tmdb"
+name = "D_Y_15K_V1"
 path = "datasets/" + name +"/"
 
 num_of_rel_triples_1 = num_of_triples(path + "/rel_triples_1")

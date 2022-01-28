@@ -35,7 +35,7 @@ sess = tf.Session(config=config)
 
 
 # Specify dataset, training ratio and fold
-train_pair,dev_pair,adj_matrix,r_index,r_val,adj_features,rel_features = load_data('datasets_with_ids/tmdb-tvdb_RREA/',0.20,2)
+train_pair,dev_pair,adj_matrix,r_index,r_val,adj_features,rel_features = load_data('datasets_with_ids/D_W_15K_V1_RREA/',0.20,2)
 adj_matrix = np.stack(adj_matrix.nonzero(),axis = 1)
 rel_matrix,rel_val = np.stack(rel_features.nonzero(),axis = 1),rel_features.data
 ent_matrix,ent_val = np.stack(adj_features.nonzero(),axis = 1),adj_features.data
