@@ -2,8 +2,8 @@
 
 ## Dataset License
 
-Due to licensing we are not allowed to distribute the bbc-db, imdb-tmdb, tmdb-tvdb, imdb-tvdb, restaurants.
-To run the experiments, please download [bbc-db](https://www.csd.uoc.gr/~vefthym/minoanER/datasets.html), [imdb, tmdb, tvdb](https://github.com/ScaDS/MovieGraphBenchmark) and [restaurants](http://oaei.ontologymatching.org/2010/im/) datasets.
+Due to licensing we are not allowed to distribute the datasets bbc-db, imdb-tmdb, tmdb-tvdb, imdb-tvdb, restaurants.
+To run the experiments, please download [bbc-db](https://www.csd.uoc.gr/~vefthym/minoanER/datasets.html), [imdb, tmdb, tvdb](https://github.com/ScaDS/MovieGraphBenchmark) and [restaurants](http://oaei.ontologymatching.org/2010/im/).
 
 ## Getting Started
 
