@@ -1,5 +1,7 @@
 # Knowledge Graph Embedding Methods for Entity Alignment: An Experimental Review
 
+Paper: https://arxiv.org/abs/2203.09280
+
 ## Dataset License
 
 Due to licensing we are not allowed to distribute the datasets bbc-db, imdb-tmdb, tmdb-tvdb, imdb-tvdb, restaurants.
