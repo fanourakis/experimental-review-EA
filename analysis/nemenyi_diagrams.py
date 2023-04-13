@@ -6,10 +6,10 @@ from scipy import stats
 # choose [FRIEDMAN or NEMENYI]
 play = "NEMENYI"
 # choose metric [Hits@1, Hits@10, MR, MRR]
-metric = "Hits@1"
+metric = "Hits@10"
 
 if play == "FRIEDMAN":
-    data1 = pd.read_excel("performances_and_statistics.xlsx", usecols=range(0, 32), skiprows=0)
+    data1 = pd.read_excel("performances_and_statistics.xlsx", usecols=range(0, 36), skiprows=0)
     pd.set_option('display.max_columns', None)
     pd.set_option('display.max_rows', None)
 
@@ -38,7 +38,7 @@ if play == "FRIEDMAN":
 elif play == "NEMENYI":
 
     col = list()
-    data = pd.read_excel("performances_and_statistics.xlsx", usecols=range(0, 32), skiprows=0)
+    data = pd.read_excel("performances_and_statistics.xlsx", usecols=range(0, 36), skiprows=0)
 
 
     for a in data.columns:
@@ -87,7 +87,7 @@ elif play == "NEMENYI":
         names.append(n.split(" ")[0])
 
     avranks = list()
-    for i in range(0, 8):
+    for i in range(0, 9):
         avranks.append(data[data.columns[i]].str.extract(r"\((.*?)\)")[0:8].astype('float').mean()[0])
 
     print(avranks)
@@ -95,4 +95,4 @@ elif play == "NEMENYI":
     print("cd=", cd)
     Orange.evaluation.graph_ranks(avranks, names, cd=cd, width=5.5, textspace=1.5)
     # plt.show()
-    plt.savefig("./test_nemenyi.png")
+    plt.savefig("./neme_" + metric + ".png")

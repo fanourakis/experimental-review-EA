@@ -92,7 +92,7 @@ for c in data.columns:
 
 
 data_metrics = {}
-for col in data.columns[0:32]:
+for col in data.columns[0:36]:
     data_metrics[col] = data[col][0:8]
 
 new_data = {
@@ -114,7 +114,7 @@ new_dataframe.update(new_data)
 df = pd.DataFrame(new_dataframe)
 
 correlations = {}
-for i in range(0, 32, 1):
+for i in range(0, 36, 1):
     corr_list = list()
     for j in feature_list:
         df1 = df[df.columns[i]].replace(np.nan, 0)

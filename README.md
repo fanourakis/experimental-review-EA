@@ -46,6 +46,29 @@ For example, for MTransE on tmdb-tvdb for the first split, please execute the fo
 python main_from_args.py ./args/mtranse_args_15K.json D_W_15K_V1 721_5fold/1/
 ```
 
+### PARIS Instructions:
+```bash
+cd PARIS
+conda env create --file install/entity_match.yml -n entity_match
+conda activate entity_match
+cd src/experiments
+mkdir results
+python3 -u ../run_experiment.py \
+        --method PARIS\
+        --root_dataset "root of dataset folder"\
+        --dataset "dataset_name"\
+        --dataset_division 721_5fold\
+        --out_folder ./results\
+        --use_func > test.log
+```
+### BERT_INT Instructions:
+```bash
+cd BERT_INT
+conda env create --file install/bert_int.yml -n bert_int
+python basic_bert_unit/main.py
+bash interaction_model/run.sh
+```
+
 ### Analysis Instructions
 ```bash
 cd analysis
