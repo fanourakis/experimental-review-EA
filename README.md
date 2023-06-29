@@ -1,6 +1,6 @@
 # Knowledge Graph Embedding Methods for Entity Alignment: An Experimental Review
 
-Paper: https://arxiv.org/abs/2203.09280
+Paper: https://doi.org/10.1007/s10618-023-00941-9
 
 ## Dataset License
 
