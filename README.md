@@ -1,6 +1,10 @@
 # Knowledge Graph Embedding Methods for Entity Alignment: An Experimental Review
 
-Paper: https://doi.org/10.1007/s10618-023-00941-9
+The source code of the survey:
+
+N Fanourakis, Vasilis Efthymiou, Dimitris Kotzinos, Vassilis Christophides:
+Knowledge graph embedding methods for entity alignment: experimental review. Data Min. Knowl. Discov. (2023)
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-33455-9_5](https://doi.org/10.1007/s10618-023-00941-9)]
 
 ## Dataset License
 
